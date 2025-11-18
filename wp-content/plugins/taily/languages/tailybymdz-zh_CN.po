@@ -1,0 +1,848 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2025-08-17 04:10+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+# plugin main descs
+msgid ""
+"Tailwind-Css Framework for Wordpress => 🎨 (very fast & optimized system)"
+msgstr "适用于 WordPress 的 Tailwind-Css 框架 => 🎨（非常快且优化的系统）"
+
+# plugin main descs
+msgid "Tailwind-Framework for Wordpress (Fast & Optimized)"
+msgstr "Tailwind-Wordpress 框架（快速且优化）"
+
+# read-me file
+msgid ""
+"By adding the Tailwind framework to your WordPress in a completely dynamic "
+"way, you can design and style all parts of your site using this powerful "
+"framework, this plugin is also a new and suitable platform for developing "
+"WordPress Themes in a more optimal & faster way. This plugin also is "
+"compatible with the default WordPress page builder, Gutenberg, and the very "
+"popular Elementor page builder."
+msgstr ""
+"通过以完全动态的方式将 Tailwind 框架添加到您的 WordPress，您可以使用这个强大"
+"的框架设计和设计站点的所有部分，该插件也是一个新的合适的平台，用于以更优化和"
+"更快的方式开发 WordPress 主题。该插件还与默认的 WordPress 页面构建器、"
+"Gutenberg 和非常流行的 Elementor 页面构建器兼容。"
+
+# read-me file
+msgid ""
+"To install the plugin, just search the term `Taily` or `Tailwind` in the "
+"wordpress repository!"
+msgstr ""
+"要安装该插件，只需在 WordPress 存储库中搜索术语“Taily”或“Tailwind”即可！"
+
+# read-me file
+msgid "you may Update only from the official WordPress plugin repository"
+msgstr "您只能从官方 WordPress 插件存储库更新"
+
+msgid ""
+"Before deleting the plugin, you can delete all the information of this "
+"plugin in your site's database forever by activating the `Clearing while "
+"Uninstall` option when deleting."
+msgstr ""
+"在删除插件之前，您可以通过在删除时激活“卸载时清除”选项来永久删除站点数据库中"
+"该插件的所有信息。"
+
+# read-me file
+msgid ""
+"Look for the settings page named as (Taily) of this plugin in the WordPress "
+"Main-Menu side-bar"
+msgstr "在 WordPress 主菜单侧栏中查找该插件名为 (Taily) 的设置页面"
+
+# read-me file
+msgid ""
+"Unfortunately, support for this plugin is not available at this moment, But "
+"in very urgent cases, you can contact us through our official email as well "
+"as our team's Telegram"
+msgstr ""
+"不幸的是，目前不提供对该插件的支持，但在非常紧急的情况下，您可以通过我们的官"
+"方电子邮件以及我们团队的 Telegram 联系我们"
+
+#: taily.php:35
+msgid "Settings"
+msgstr "设置"
+
+#: blocks-taily-settings/node_modules/flatted/python/test.py:24
+msgid "two"
+msgstr "二"
+
+#: blocks-taily-settings/node_modules/flatted/python/test.py:39
+msgid "test"
+msgstr "测试"
+
+#: core/admin.php:371
+msgid "Taily"
+msgstr "Taily"
+
+#: core/admin.php:384
+msgid "Help"
+msgstr "帮助"
+
+#: core/admin.php:392 core/admin.php:393
+msgid "Free plugins"
+msgstr "免费插件"
+
+#: core/admin.php:402
+msgid "Exclusive design"
+msgstr "独家设计"
+
+#: core/admin.php:649 core/html/settings.php:494 core/html/settings.php:591
+#: elementor/taily-textarea.php:132
+msgid "Productive Mode?"
+msgstr "生产模式？"
+
+#: core/admin.php:656 elementor/taily-textarea.php:133
+msgid ""
+"Help: Whenever the design of this page is finished, you can activate this "
+"option so that all the CSS codes of this page are added to the page more "
+"optimally and do not slow down the rendering speed of the page."
+msgstr ""
+"帮助：每当本页面设计完成后，您可以激活该选项，以便将本页面的所有CSS代码更优化"
+"地添加到页面中，并且不会减慢页面的渲染速度。"
+
+#: core/admin.php:691
+msgid "Taily (WP-TailwindCss)"
+msgstr "Taily (WP-TailwindCss)"
+
+#: core/html/design.php:96
+msgid "Your Logo"
+msgstr "你的标志"
+
+#: core/html/design.php:99
+msgid "Your Slogan..."
+msgstr "你的口号..."
+
+#: core/html/design.php:107
+msgid "Home"
+msgstr "主页"
+
+#: core/html/design.php:109
+msgid "About"
+msgstr "关于"
+
+#: core/html/design.php:111
+msgid "Products"
+msgstr "产品"
+
+#: core/html/design.php:113
+msgid "Contact"
+msgstr "接触"
+
+#: core/html/design.php:136
+msgid "Color of the Year -2024-"
+msgstr "年度色彩-2024-"
+
+#: core/html/design.php:144
+msgid "Order Now 💬"
+msgstr "现在下单  💬"
+
+#: core/html/design.php:146 core/html/design.php:238
+msgid "Contact Taily-Team"
+msgstr "联系我们的团队"
+
+#: core/html/design.php:185 core/html/design.php:189
+msgid "click to change"
+msgstr "点击更改"
+
+#: core/html/design.php:185
+msgid "Change Color"
+msgstr "换颜色"
+
+#: core/html/design.php:189
+msgid "Randomize Color"
+msgstr "随机颜色"
+
+#: core/html/design.php:193
+msgid "Using this button, you can change the color theme of the above template"
+msgstr "使用此按钮，您可以更改上述模板的颜色主题"
+
+#: core/html/design.php:202
+msgid "Need a custom design on Wordpress?"
+msgstr "需要在 WordPress 上进行定制设计吗？"
+
+#: core/html/design.php:203
+msgid "So stay in touch with us 👋"
+msgstr "所以请与我们保持联系 👋"
+
+#: core/html/design.php:224
+msgid "Our Services < />"
+msgstr "我们的服务</>"
+
+#: core/html/design.php:226
+msgid "Exclusive CMS design"
+msgstr "独家CMS设计"
+
+#: core/html/design.php:227
+msgid "Exclusive PHP-API design"
+msgstr "独家PHP-API设计"
+
+#: core/html/design.php:228
+msgid "Exclusive website design"
+msgstr "独家网站设计"
+
+#: core/html/design.php:229
+msgid "Wordpress website design"
+msgstr "WordPress 网站设计"
+
+#: core/html/design.php:230
+msgid "Full Front-End design (Tailwind+React)"
+msgstr "全前端设计（Tailwind+React）"
+
+#: core/html/design.php:231
+msgid "Dedicated Plugin and Theme design (wordpress)"
+msgstr "专用插件和主题设计（wordpress）"
+
+#: core/html/design.php:232
+msgid "Optimizing and increasing the professional speed of the site"
+msgstr "优化并提高网站的专业速度"
+
+#: core/html/design.php:250 core/html/help.php:124 core/html/settings.php:821
+msgid "-- Designed and Powered by Tailwind ©"
+msgstr "-- 由 Tailwind © 设计和支持"
+
+#: core/html/design.php:265
+msgid "Please Wait..."
+msgstr "请稍等..."
+
+#: core/html/design.php:266
+msgid "Randomizing! 🥳"
+msgstr "随机化！🥳"
+
+#: core/html/help.php:50
+msgid "Need any Help? 🤝"
+msgstr "需要帮助吗？🤝"
+
+#: core/html/help.php:54
+msgid "Visit Tailwinds Official Website"
+msgstr "访问 Tailwinds 官方网站"
+
+#: core/html/help.php:58
+msgid "Tailwinds Documents"
+msgstr "顺风文件"
+
+#: core/html/help.php:62
+msgid "Taily Documents (Soon...)"
+msgstr "Taily 文件（很快...）"
+
+#: core/html/help.php:68
+msgid "Contact us"
+msgstr "联系我们"
+
+#: core/html/help.php:73
+msgid "Email:"
+msgstr "电子邮件："
+
+#: core/html/help.php:80
+msgid "Official Telegram:"
+msgstr "官方电报："
+
+#: core/html/help.php:88
+msgid "--Database"
+msgstr "- 数据库"
+
+#: core/html/help.php:89
+msgid ""
+"The information that Taily plugin adds to your sites database and you should "
+"know them"
+msgstr "Taily 插件添加到您的站点数据库中的信息，您应该知道它们"
+
+#: core/html/help.php:92
+msgid "-Post-Meta table (wp_postmeta)"
+msgstr "-后元表（wp_postmeta）"
+
+#: core/html/help.php:106
+msgid "-Options table (wp_options)"
+msgstr "-选项表（wp_options）"
+
+#: core/html/help.php:108
+msgid "In general, any option with taily name prefix is ​​like: taily_settings"
+msgstr "一般来说，任何带有 taily 名称前缀的选项都类似于：taily_settings"
+
+#: core/html/help.php:113
+msgid ""
+"Note: To clear all this information when deleting the plugin, go to the "
+"plugin settings page and activate the `Clearing while Uninstall` option in "
+"the plugin activity section."
+msgstr ""
+"注意：要在删除插件时清除所有这些信息，请转到插件设置页面并激活插件活动部分中"
+"的“卸载时清除”选项。"
+
+#: core/html/help.php:117
+msgid "Go to Settings"
+msgstr "前往设置"
+
+#: core/html/settings.php:138
+msgid "Taily Settings"
+msgstr "个性化设置"
+
+#: core/html/settings.php:140
+msgid "Tailwind Framework for Wordpress"
+msgstr "WordPress 的 Tailwind 框架"
+
+#: core/html/settings.php:143
+msgid "Version:"
+msgstr "版本："
+
+#: core/html/settings.php:169
+msgid "Tailwind Settings"
+msgstr "顺风设置"
+
+#: core/html/settings.php:174
+msgid "Tailwind Plugins"
+msgstr "顺风插件"
+
+#: core/html/settings.php:179
+msgid "Post Types"
+msgstr "帖子类型"
+
+#: core/html/settings.php:184
+msgid "Advanced"
+msgstr "先进的"
+
+#: core/html/settings.php:190
+msgid "Plugin Activity"
+msgstr "插件活动"
+
+#: core/html/settings.php:195
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: core/html/settings.php:213
+msgid "Select Tailwind Version:"
+msgstr "选择 Tailwind 版本："
+
+#: core/html/settings.php:214 core/html/settings.php:450
+msgid "Click"
+msgstr "点击"
+
+#: core/html/settings.php:216
+msgid "Tailwind v3 (deprecated)"
+msgstr "Tailwind v3（已弃用）"
+
+#: core/html/settings.php:218
+msgid "Tailwind v4 (most-recommended)"
+msgstr "Tailwind v4（最推荐）"
+
+#: core/html/settings.php:221 core/html/settings.php:457
+msgid "exit"
+msgstr "出口"
+
+#: core/html/settings.php:229
+msgid ""
+"Important Note: In version 4 of the Tailwind framework, many optimizations "
+"have been made, and its speed and performance have been greatly improved. "
+"Also, the `tailwind.config.js` file has been completely removed and standard "
+"CSS variables have been used in all component definitions, etc."
+msgstr ""
+"重要提示：Tailwind 框架 4.0 版进行了大量优化，速度和性能得到了大幅提升。此"
+"外，`tailwind.config.js` 文件已被彻底移除，所有组件定义均已使用标准 CSS 变量"
+"等。"
+
+#: core/html/settings.php:240
+msgid "Input CSS Configs (input.css)"
+msgstr "输入 CSS 配置 (input.css)"
+
+#: core/html/settings.php:242
+msgid ""
+"Please do not use any backslash (\\) in this section. Do not use of `@import "
+"\"tailwindcss\"` at here"
+msgstr ""
+"请不要在此部分使用任何反斜杠 (\\)。请勿在此处使用 `@import \"tailwindcss\"`"
+
+#: core/html/settings.php:246 core/html/settings.php:270
+#: core/html/settings.php:294 core/html/settings.php:318
+#: core/html/settings.php:371 core/html/settings.php:386
+#: core/html/settings.php:433 core/html/settings.php:521
+#: core/html/settings.php:543 core/html/settings.php:658
+#: core/html/settings.php:676
+msgid "Help:"
+msgstr "帮助："
+
+#: core/html/settings.php:248
+msgid ""
+"This section refers to the contents of the input.css file of the Tailwind "
+"framework (Version: 4), in this section, for example, you can define your "
+"own components (@layer components) or set some custome theme properties "
+"(@theme)."
+msgstr ""
+"此部分引用了 Tailwind 框架（版本：4）的 input.css 文件的内容，在此部分中，例"
+"如，您可以定义自己的组件（@layer components）或设置一些自定义主题属性"
+"（@theme）。"
+
+#: core/html/settings.php:252 core/html/settings.php:324
+msgid "Click the below button to download a sample tailwind input.css file"
+msgstr "单击下面的按钮下载示例 tailwind input.css 文件"
+
+#: core/html/settings.php:253 core/html/settings.php:277
+#: core/html/settings.php:301 core/html/settings.php:325
+msgid "Download"
+msgstr "下载"
+
+#: core/html/settings.php:264
+msgid "Your Global CSS Variables:"
+msgstr "您的全局 CSS 变量："
+
+#: core/html/settings.php:266 core/html/settings.php:289
+#: core/html/settings.php:314
+msgid "Please do not use any backslash (\\) in this section"
+msgstr "请不要在本节中使用任何反斜杠 (\\)"
+
+#: core/html/settings.php:272
+msgid ""
+"In this section, you can define your global CSS variables globally so that "
+"all parts of your code are more compatible with Tailwind version 4."
+msgstr ""
+"在本节中，您可以全局定义全局 CSS 变量，以便代码的所有部分与 Tailwind 版本 4 "
+"更加兼容。"
+
+#: core/html/settings.php:276
+msgid ""
+"Click the below button to download a sample css file with codes (::root)"
+msgstr "点击下面的按钮下载带有代码的示例 css 文件 (::root)"
+
+#: core/html/settings.php:287
+msgid "Your Configs (JS):"
+msgstr "您的配置（JS）："
+
+#: core/html/settings.php:296
+msgid ""
+"The meaning of this section is the same information in the tailwind.config."
+"js file that you can enter in this section in a personalized way."
+msgstr ""
+"此部分的含义与 tailwind.config.js 文件中的信息相同，您可以以个性化的方式在此"
+"部分中输入这些信息。"
+
+#: core/html/settings.php:300
+msgid "Click the below button to download a sample tailwind.config.js file"
+msgstr "单击下面的按钮下载示例 tailwind.config.js 文件"
+
+#: core/html/settings.php:312
+msgid "Your Configs (CSS):"
+msgstr "您的配置（CSS）："
+
+#: core/html/settings.php:320
+msgid ""
+"This section refers to the contents of the input.css file of the Tailwind "
+"framework, in this section, for example, you can define your own components."
+msgstr ""
+"本节引用了Tailwind框架的input.css文件的内容，在本节中，例如您可以定义自己的组"
+"件。"
+
+#: core/html/settings.php:342
+msgid "Official Plugins:"
+msgstr "官方插件："
+
+#: core/html/settings.php:345
+msgid "Forms"
+msgstr "表格"
+
+#: core/html/settings.php:350
+msgid "Line-Clamp"
+msgstr "Line-Clamp"
+
+#: core/html/settings.php:355
+msgid "Typography"
+msgstr "版式"
+
+#: core/html/settings.php:360
+msgid "Aspect-Ratio"
+msgstr "长宽比"
+
+#: core/html/settings.php:365
+msgid "Container-Queries"
+msgstr "Container-Queries"
+
+#: core/html/settings.php:373
+msgid ""
+"If you dont know what Tailwind framework plugins are and how to use them, "
+"you can get more information using the guide link below."
+msgstr ""
+"如果您不知道 Tailwind 框架插件是什么以及如何使用它们，您可以使用下面的指南链"
+"接获取更多信息。"
+
+#: core/html/settings.php:377
+msgid "Click the below button for more information about Tailwind-Plugins"
+msgstr "单击下面的按钮了解有关 Tailwind 插件的更多信息"
+
+#: core/html/settings.php:378
+msgid "Plugin-Docs"
+msgstr "插件文档"
+
+#: core/html/settings.php:388
+msgid ""
+"Note: Plugins have been removed in Tailwind version 4 and are no longer "
+"useful"
+msgstr "注意：插件已在 Tailwind 版本 4 中删除，不再有用"
+
+#: core/html/settings.php:399
+msgid "Use Post-types?"
+msgstr "使用帖子类型？"
+
+#: core/html/settings.php:406
+msgid ""
+"By default, this plugin works only on WordPress pages and posts, but you can "
+"change this according to your needs."
+msgstr ""
+"默认情况下，该插件仅适用于 WordPress 页面和帖子，但您可以根据需要更改此设置。"
+
+#: core/html/settings.php:435
+msgid ""
+"It is better to select and activate only post types that are active and "
+"visible on the front-end of your site"
+msgstr "最好仅选择并激活在网站前端处于活动状态且可见的帖子类型"
+
+#: core/html/settings.php:448
+msgid "How to add Productive CSS files?"
+msgstr "如何添加高效的 CSS 文件？"
+
+#: core/html/settings.php:452
+msgid "inline (head-tag)"
+msgstr "内联（头标签）"
+
+#: core/html/settings.php:454
+msgid "External CSS-file"
+msgstr "外部 CSS 文件"
+
+#: core/html/settings.php:465
+msgid ""
+"Note: External CSS file type creates one CSS file per page or post and "
+"consumes more (disk space) of your server."
+msgstr ""
+"注意：外部 CSS 文件类型为每页或每篇文章创建一个 CSS 文件，并消耗更多服务器"
+"（磁盘空间）。"
+
+#: core/html/settings.php:470
+msgid "Select Template-Type Post-types:"
+msgstr "选择模板类型帖子类型："
+
+#: core/html/settings.php:508
+msgid ""
+"It seems that you have not activated any post type! To view and use this "
+"section, you must activate at least one option in the post types section!"
+msgstr ""
+"您似乎还没有激活任何帖子类型！要查看和使用此部分，您必须激活帖子类型部分中的"
+"至少一个选项！"
+
+#: core/html/settings.php:512
+msgid "Re-check"
+msgstr "重新检查"
+
+#: core/html/settings.php:523
+msgid ""
+"In the external CSS file generation mode, you can generate a common CSS file "
+"for each post type by selecting post types that act as templates (such as "
+"WooCommerce products), not a separate file for each product."
+msgstr ""
+"在外部 CSS 文件生成模式下，您可以通过选择充当模板的帖子类型（例如 "
+"WooCommerce 产品）来为每个帖子类型生成通用 CSS 文件，而不是为每个产品生成单独"
+"的文件。"
+
+#: core/html/settings.php:527 core/html/settings.php:568
+msgid ""
+"Setting this up will help further optimize your site and server resources"
+msgstr "设置此项将有助于进一步优化您的站点和服务器资源"
+
+#: core/html/settings.php:532 core/html/settings.php:609
+msgid "Warning:"
+msgstr "警告："
+
+#: core/html/settings.php:534
+msgid ""
+"Use template mode for the post-types only if the design of all its pages has "
+"the same HTML code"
+msgstr "仅当所有页面的设计具有相同的 HTML 代码时，才对帖子类型使用模板模式"
+
+#: core/html/settings.php:539
+msgid "Clear-All Static-CSS-files"
+msgstr "清除所有静态 CSS 文件"
+
+#: core/html/settings.php:548
+msgid ""
+"Use with caution: Use the button above to clear all CSS files generated by "
+"this plugin."
+msgstr "谨慎使用：使用上面的按钮清除该插件生成的所有 CSS 文件。"
+
+#: core/html/settings.php:552
+msgid ""
+"Note: After cleaning, it is better to disable the production mode for all "
+"your posts and pages (you can use the buttons below in the -- Production "
+"Mode -- Section)"
+msgstr ""
+"注意：清理后，最好禁用所有帖子和页面的生产模式（您可以使用--生产模式--部分中"
+"的以下按钮）"
+
+#: core/html/settings.php:554
+msgid "Go to Section"
+msgstr "转到部分"
+
+#: core/html/settings.php:559
+msgid "Folder-url:"
+msgstr "文件夹网址："
+
+#: core/html/settings.php:572
+msgid "Select Template-Type Custom-taxonomies:"
+msgstr "选择模板类型自定义分类法："
+
+#: core/html/settings.php:605
+msgid ""
+"Tip: You can put WordPress custom taxonomies into the production CSS mode "
+"only in the template mode"
+msgstr "提示：您只能在模板模式下将 WordPress 自定义分类法放入生产 CSS 模式"
+
+#: core/html/settings.php:611
+msgid ""
+"Use template mode for the Taxonomy only if the design of all its pages has "
+"the same HTML code"
+msgstr "仅当所有页面的设计具有相同的 HTML 代码时，才使用分类法的模板模式"
+
+#: core/html/settings.php:624
+msgid "Deactivate Elementor Compatibility?"
+msgstr "停用 Elementor 兼容性？"
+
+#: core/html/settings.php:631
+msgid ""
+"If you dont have Elementor page builder or if you dont use this feature, "
+"activate the above option"
+msgstr "如果您没有 Elementor 页面构建器或者不使用此功能，请激活上述选项"
+
+#: core/html/settings.php:633
+msgid ""
+"Note: By default, a special section (textarea) for writing Tailwind classes "
+"has been added to all Elementor widgets of your site"
+msgstr ""
+"注意：默认情况下，用于编写 Tailwind 类的特殊部分（文本区域）已添加到站点的所"
+"有 Elementor 小部件中"
+
+#: core/html/settings.php:638
+msgid "Deactivate Gutenberg Compatibility?"
+msgstr "停用古腾堡兼容性？"
+
+#: core/html/settings.php:645
+msgid ""
+"If you are not using the default WordPress page builder (Gutenberg) or if "
+"you have disabled it, enable the above option."
+msgstr ""
+"如果您没有使用默认的 WordPress 页面构建器 (Gutenberg) 或者已禁用它，请启用上"
+"述选项。"
+
+#: core/html/settings.php:647
+msgid ""
+"Note: By default, a special section (textarea) for writing Tailwind classes "
+"has been added to all Gutenberg widgets of your site"
+msgstr ""
+"注意：默认情况下，用于编写 Tailwind 类的特殊部分（文本区域）已添加到站点的所"
+"有古腾堡小部件中"
+
+#: core/html/settings.php:651
+msgid "-- Production Mode --"
+msgstr "-- 生产模式 --"
+
+#: core/html/settings.php:654
+msgid "Set all to Productive-Mode"
+msgstr "全部设置为生产模式"
+
+#: core/html/settings.php:660
+msgid ""
+"Converts all posts, pages and other post types that use Taily to productive-"
+"mode"
+msgstr "将使用 Taily 的所有帖子、页面和其他帖子类型转换为生产模式"
+
+#: core/html/settings.php:664
+msgid ""
+"If your design is complete, you can use the above option to load pages faster"
+msgstr "如果您的设计已完成，您可以使用上述选项来更快地加载页面"
+
+#: core/html/settings.php:672
+msgid "Set all to Non-Productive-Mode"
+msgstr "全部设置为非生产模式"
+
+#: core/html/settings.php:678
+msgid ""
+"Converts all posts, pages and other post types that use Taily to non-"
+"productive-mode (Editing Mode)"
+msgstr ""
+"将使用 Taily 的所有帖子、页面和其他帖子类型转换为非生产模式（编辑模式）"
+
+#: core/html/settings.php:685
+msgid "Change to non-productive mode when editing post?"
+msgstr "编辑帖子时更改为非生产模式？"
+
+#: core/html/settings.php:692
+msgid ""
+"Every time you hit the edit button on a post or page, it automatically "
+"changes its mode to non-productive mode."
+msgstr ""
+"每次您点击帖子或页面上的编辑按钮时，它都会自动将其模式更改为非生产模式。"
+
+#: core/html/settings.php:697
+msgid "Add Tailwind-JS file locally"
+msgstr "本地添加Tailwind-JS文件"
+
+#: core/html/settings.php:704
+msgid "You can use this option if using Tailwind CDN slows down your site"
+msgstr "如果使用 Tailwind CDN 会减慢您的网站速度，您可以使用此选项"
+
+#: core/html/settings.php:706
+msgid ""
+"Note: Activating this item can interfere with the functionality of Tailwind "
+"plugins"
+msgstr "注意：激活此项可能会干扰 Tailwind 插件的功能"
+
+#: core/html/settings.php:719
+msgid "Wordpress Cache"
+msgstr "WordPress 缓存"
+
+#: core/html/settings.php:722
+msgid "Cache Compatibility"
+msgstr "缓存兼容性"
+
+#: core/html/settings.php:729
+msgid "Note: If you use cache plugins such as Wp-Rocket, enable this option"
+msgstr "注意：如果您使用Wp-Rocket等缓存插件，请启用此选项"
+
+#: core/html/settings.php:740
+msgid "Disable Plugin?"
+msgstr "禁用插件？"
+
+#: core/html/settings.php:747
+msgid ""
+"This option is used for temporary deactivations or for troubleshooting, if "
+"you dont want to use this plugin completely, its better to delete it!"
+msgstr "此选项用于临时停用或故障排除，如果您不想完全使用此插件，最好将其删除！"
+
+#: core/html/settings.php:752
+msgid "Clearing while Uninstall"
+msgstr "卸载时清除"
+
+#: core/html/settings.php:759
+msgid ""
+"By activating this option, when deleting this plugin, all its data stored in "
+"your database will be deleted forever"
+msgstr "通过激活此选项，删除此插件时，其存储在数据库中的所有数据将被永久删除"
+
+#: core/html/settings.php:779
+msgid "help"
+msgstr "帮助"
+
+#: core/html/settings.php:783
+msgid "Free Plugins"
+msgstr "免费插件"
+
+#: core/html/settings.php:787
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: core/html/settings.php:795
+msgid "About Taily »"
+msgstr "关于泰利 »"
+
+#: core/html/settings.php:798
+msgid ""
+"This completely free plugin is written with the goal of faster and easier "
+"WordPress front-end development by the popular Tailwind framework. We hope "
+"that with the help of this plugin you will be able to use the Tailwind CSS "
+"framework."
+msgstr ""
+"这个完全免费的插件是为了通过流行的 Tailwind 框架更快、更轻松地进行 WordPress "
+"前端开发而编写的。我们希望在这个插件的帮助下您能够使用 Tailwind CSS 框架。"
+
+#: core/html/settings.php:802 core/html/settings.php:806
+msgid ""
+"This free plugin has been coded in an object-oriented way, and during the "
+"coding process, maintaining the speed and optimality of the clients site has "
+"been and will be our Main Priority."
+msgstr ""
+"这个免费插件是以面向对象的方式编码的，在编码过程中，保持客户端站点的速度和最"
+"优性已经并将成为我们的主要优先事项。"
+
+#: core/html/settings.php:810
+msgid ""
+"Important: If your design process is finished, in order to optimize the "
+"speed of the pages made with Taily as much as possible, use the production "
+"mode button to convert all your pages to this mode"
+msgstr ""
+"重要提示：如果您的设计过程已完成，为了尽可能优化使用 Taily 制作的页面的速度，"
+"请使用生产模式按钮将所有页面转换为该模式"
+
+#: core/html/settings.php:814
+msgid ""
+"Supported Languages: Arabic, English, Greek, Persian, French, Italian, "
+"Spanish, Russian, Japanese, Chinese"
+msgstr ""
+"支持的语言：阿拉伯语、英语、希腊语、波斯语、法语、意大利语、西班牙语、俄语、"
+"日语、中文"
+
+#: core/html/settings.php:816
+msgid "Created by: < Mdesign />"
+msgstr "创建者：Mdesign"
+
+#: core/html/settings.php:834
+msgid "Saved Successfully!"
+msgstr "保存成功！"
+
+#: core/html/settings.php:835
+msgid "No changes to save. But it was saved anyway!"
+msgstr "没有要保存的更改。但无论如何还是被救了！"
+
+#: core/html/settings.php:836
+msgid "Please wait for the page to reload..."
+msgstr "请等待页面重新加载..."
+
+#: core/html/settings.php:837
+msgid "Done!"
+msgstr "完毕！"
+
+#: core/html/settings.php:838
+msgid "Selected"
+msgstr "已选择"
+
+#: core/html/settings.php:839
+msgid "Are you sure? => note that this operation is irreversible"
+msgstr "你确定吗？ =>注意这个操作是不可逆的"
+
+#: elementor/taily-textarea.php:66
+msgid "Taily-CSS"
+msgstr "Taily-CSS"
+
+#: elementor/taily-textarea.php:74
+msgid "CSS-Classes"
+msgstr "CSS 类"
+
+#: elementor/taily-textarea.php:84
+msgid "Add your custom class WITHOUT the dot. e.g: w-full text-center ..."
+msgstr "添加不带点的自定义类。例如：w-full text-center bg-red-500"
+
+#: elementor/taily-textarea.php:124
+msgid "Taily Page Settings"
+msgstr "尾页设置"
+
+#: elementor/taily-textarea.php:137
+msgid "Active"
+msgstr "积极的"
+
+#: elementor/taily-textarea.php:138
+msgid "InActive"
+msgstr "不活跃"
+
+# read-me file
+#~ msgid ""
+#~ "Tailwind-Framework for Wordpress (Fast & Optimized),Unparalleled "
+#~ "Versatility, Advanced Elementor & Gutenberg integration and etc..."
+#~ msgstr ""
+#~ "Tailwind-Wordpress 框架（快速且优化）、无与伦比的多功能性、高级 Elementor "
+#~ "和古腾堡集成等..."

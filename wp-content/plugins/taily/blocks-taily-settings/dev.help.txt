@@ -1,0 +1,20 @@
+
+
+Bonjour Dear Developer 😍🤩
+Good to see you here!
+
+to develope this plugin Gutenberg-Widget (blocks-taily-settings) follow below instructions:
+
+1- open the plugin (I mean Taily!) with an appropriate IDE Lik: Vs-code|Atom|PHPStorm etc...
+2- open the Terminal (CTRL+SHIFT+~  => VsCode on Windows)
+3- type => `cd blocks-taily-settings` Then press Enter
+4- type => `npm run start` then press Enter Again!
+5- Done! => (At this point, To Ensure you should see the webpack compilation message (green message) at the end of your terminal lines)
+
+
+--Start Editing--
+
+go to `src` folder inside the `blocks-taily-settings` folder and start editing the `index.js` file
+(Note: To edit this file, it is better to be familiar with the React framework!)
+
+Hope ypu Enjoy! 🥳

@@ -1,0 +1,924 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2025-08-17 04:09+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+# plugin main descs
+msgid ""
+"Tailwind-Css Framework for Wordpress => 🎨 (very fast & optimized system)"
+msgstr ""
+"Tailwind-Css Framework per Wordpress => 🎨 (sistema molto veloce e "
+"ottimizzato)"
+
+# plugin main descs
+msgid "Tailwind-Framework for Wordpress (Fast & Optimized)"
+msgstr "Framework Tailwind per Wordpress (veloce e ottimizzato)"
+
+# read-me file
+msgid ""
+"By adding the Tailwind framework to your WordPress in a completely dynamic "
+"way, you can design and style all parts of your site using this powerful "
+"framework, this plugin is also a new and suitable platform for developing "
+"WordPress Themes in a more optimal & faster way. This plugin also is "
+"compatible with the default WordPress page builder, Gutenberg, and the very "
+"popular Elementor page builder."
+msgstr ""
+"Aggiungendo il framework Tailwind al tuo WordPress in modo completamente "
+"dinamico, puoi progettare e modellare tutte le parti del tuo sito "
+"utilizzando questo potente framework, questo plugin è anche una piattaforma "
+"nuova e adatta per sviluppare temi WordPress in modo più ottimale e veloce. "
+"Questo plugin è compatibile anche con il page builder predefinito di "
+"WordPress, Gutenberg, e il popolarissimo page builder Elementor."
+
+# read-me file
+msgid ""
+"To install the plugin, just search the term `Taily` or `Tailwind` in the "
+"wordpress repository!"
+msgstr ""
+"Per installare il plugin, basta cercare il termine `Taily` o `Tailwind` nel "
+"repository wordpress!"
+
+# read-me file
+msgid "you may Update only from the official WordPress plugin repository"
+msgstr "puoi aggiornare solo dal repository ufficiale dei plugin WordPress"
+
+msgid ""
+"Before deleting the plugin, you can delete all the information of this "
+"plugin in your site's database forever by activating the `Clearing while "
+"Uninstall` option when deleting."
+msgstr ""
+"Prima di eliminare il plug-in, puoi eliminare per sempre tutte le "
+"informazioni di questo plug-in nel database del tuo sito attivando l'opzione "
+"\"Cancella durante la disinstallazione\" durante l'eliminazione."
+
+# read-me file
+msgid ""
+"Look for the settings page named as (Taily) of this plugin in the WordPress "
+"Main-Menu side-bar"
+msgstr ""
+"Cerca la pagina delle impostazioni denominata (Taily) di questo plugin nella "
+"barra laterale del menu principale di WordPress"
+
+# read-me file
+msgid ""
+"Unfortunately, support for this plugin is not available at this moment, But "
+"in very urgent cases, you can contact us through our official email as well "
+"as our team's Telegram"
+msgstr ""
+"Sfortunatamente, il supporto per questo plugin non è disponibile al momento, "
+"ma in casi molto urgenti puoi contattarci tramite la nostra email ufficiale "
+"e tramite Telegram del nostro team"
+
+#: taily.php:35
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: blocks-taily-settings/node_modules/flatted/python/test.py:24
+msgid "two"
+msgstr "due"
+
+#: blocks-taily-settings/node_modules/flatted/python/test.py:39
+msgid "test"
+msgstr "test"
+
+#: core/admin.php:371
+msgid "Taily"
+msgstr "Taily"
+
+#: core/admin.php:384
+msgid "Help"
+msgstr "Aiuto"
+
+#: core/admin.php:392 core/admin.php:393
+msgid "Free plugins"
+msgstr "Plugin gratuiti"
+
+#: core/admin.php:402
+msgid "Exclusive design"
+msgstr "Design esclusivo"
+
+#: core/admin.php:649 core/html/settings.php:494 core/html/settings.php:591
+#: elementor/taily-textarea.php:132
+msgid "Productive Mode?"
+msgstr "Modalità produttiva?"
+
+#: core/admin.php:656 elementor/taily-textarea.php:133
+msgid ""
+"Help: Whenever the design of this page is finished, you can activate this "
+"option so that all the CSS codes of this page are added to the page more "
+"optimally and do not slow down the rendering speed of the page."
+msgstr ""
+"Aiuto: Ogni volta che la progettazione di questa pagina è terminata, puoi "
+"attivare questa opzione in modo che tutti i codici CSS di questa pagina "
+"vengano aggiunti alla pagina in modo più ottimale e non rallentino la "
+"velocità di rendering della pagina."
+
+#: core/admin.php:691
+msgid "Taily (WP-TailwindCss)"
+msgstr "Taily (WP-TailwindCss)"
+
+#: core/html/design.php:96
+msgid "Your Logo"
+msgstr "Il tuo logo"
+
+#: core/html/design.php:99
+msgid "Your Slogan..."
+msgstr "Il tuo slogan..."
+
+#: core/html/design.php:107
+msgid "Home"
+msgstr "Pagina iniziale"
+
+#: core/html/design.php:109
+msgid "About"
+msgstr "Di"
+
+#: core/html/design.php:111
+msgid "Products"
+msgstr "Prodotti"
+
+#: core/html/design.php:113
+msgid "Contact"
+msgstr "Contatto"
+
+#: core/html/design.php:136
+msgid "Color of the Year -2024-"
+msgstr "Colore dell'anno -2024-"
+
+#: core/html/design.php:144
+msgid "Order Now 💬"
+msgstr "Ordina adesso 💬"
+
+#: core/html/design.php:146 core/html/design.php:238
+msgid "Contact Taily-Team"
+msgstr "Contatta il nostro team"
+
+#: core/html/design.php:185 core/html/design.php:189
+msgid "click to change"
+msgstr "fare clic per modificare"
+
+#: core/html/design.php:185
+msgid "Change Color"
+msgstr "Cambia colore"
+
+#: core/html/design.php:189
+msgid "Randomize Color"
+msgstr "Randomizza il colore"
+
+#: core/html/design.php:193
+msgid "Using this button, you can change the color theme of the above template"
+msgstr "Usando questo pulsante, puoi cambiare il tema colore del modello sopra"
+
+#: core/html/design.php:202
+msgid "Need a custom design on Wordpress?"
+msgstr "Hai bisogno di un design personalizzato su Wordpress?"
+
+#: core/html/design.php:203
+msgid "So stay in touch with us 👋"
+msgstr "Quindi rimani in contatto con noi 👋"
+
+#: core/html/design.php:224
+msgid "Our Services < />"
+msgstr "I nostri servizi < />"
+
+#: core/html/design.php:226
+msgid "Exclusive CMS design"
+msgstr "Design CMS esclusivo"
+
+#: core/html/design.php:227
+msgid "Exclusive PHP-API design"
+msgstr "Design esclusivo dell'API PHP"
+
+#: core/html/design.php:228
+msgid "Exclusive website design"
+msgstr "Design esclusivo del sito web"
+
+#: core/html/design.php:229
+msgid "Wordpress website design"
+msgstr "Progettazione siti web Wordpress"
+
+#: core/html/design.php:230
+msgid "Full Front-End design (Tailwind+React)"
+msgstr "Design front-end completo (Tailwind+React)"
+
+#: core/html/design.php:231
+msgid "Dedicated Plugin and Theme design (wordpress)"
+msgstr "Design dedicato di plugin e temi (wordpress)"
+
+#: core/html/design.php:232
+msgid "Optimizing and increasing the professional speed of the site"
+msgstr "Ottimizzare e aumentare la velocità professionale del sito"
+
+#: core/html/design.php:250 core/html/help.php:124 core/html/settings.php:821
+msgid "-- Designed and Powered by Tailwind ©"
+msgstr "-- Progettato e gestito da Tailwind ©"
+
+#: core/html/design.php:265
+msgid "Please Wait..."
+msgstr "Attendere prego..."
+
+#: core/html/design.php:266
+msgid "Randomizing! 🥳"
+msgstr "Randomizzazione! 🥳"
+
+#: core/html/help.php:50
+msgid "Need any Help? 🤝"
+msgstr "Bisogno di qualche aiuto? 🤝"
+
+#: core/html/help.php:54
+msgid "Visit Tailwinds Official Website"
+msgstr "Visita il sito ufficiale di Tailwind"
+
+#: core/html/help.php:58
+msgid "Tailwinds Documents"
+msgstr "Documenti di Tailwind"
+
+#: core/html/help.php:62
+msgid "Taily Documents (Soon...)"
+msgstr "Documenti Taily (Presto...)"
+
+#: core/html/help.php:68
+msgid "Contact us"
+msgstr "Contattaci"
+
+#: core/html/help.php:73
+msgid "Email:"
+msgstr "E-mail:"
+
+#: core/html/help.php:80
+msgid "Official Telegram:"
+msgstr "Telegramma ufficiale:"
+
+#: core/html/help.php:88
+msgid "--Database"
+msgstr "--Banca dati"
+
+#: core/html/help.php:89
+msgid ""
+"The information that Taily plugin adds to your sites database and you should "
+"know them"
+msgstr ""
+"Le informazioni che il plugin Taily aggiunge al database dei tuoi siti e "
+"dovresti conoscerle"
+
+#: core/html/help.php:92
+msgid "-Post-Meta table (wp_postmeta)"
+msgstr "-Tabella Post-Meta (wp_postmeta)"
+
+#: core/html/help.php:106
+msgid "-Options table (wp_options)"
+msgstr "-Tabella delle opzioni (wp_options)"
+
+#: core/html/help.php:108
+msgid "In general, any option with taily name prefix is ​​like: taily_settings"
+msgstr ""
+"In generale, qualsiasi opzione con prefisso del nome taily è come: "
+"taily_settings"
+
+#: core/html/help.php:113
+msgid ""
+"Note: To clear all this information when deleting the plugin, go to the "
+"plugin settings page and activate the `Clearing while Uninstall` option in "
+"the plugin activity section."
+msgstr ""
+"Nota: per cancellare tutte queste informazioni quando elimini il plugin, vai "
+"alla pagina delle impostazioni del plugin e attiva l'opzione \"Cancellazione "
+"durante la disinstallazione\" nella sezione delle attività del plugin."
+
+#: core/html/help.php:117
+msgid "Go to Settings"
+msgstr "Vai alle impostazioni"
+
+#: core/html/settings.php:138
+msgid "Taily Settings"
+msgstr "Impostazioni Taily"
+
+#: core/html/settings.php:140
+msgid "Tailwind Framework for Wordpress"
+msgstr "Framework Tailwind per Wordpress"
+
+#: core/html/settings.php:143
+msgid "Version:"
+msgstr "Versione:"
+
+#: core/html/settings.php:169
+msgid "Tailwind Settings"
+msgstr "Impostazioni del Tailwind"
+
+#: core/html/settings.php:174
+msgid "Tailwind Plugins"
+msgstr "Plugin Tailwind"
+
+#: core/html/settings.php:179
+msgid "Post Types"
+msgstr "Tipi di post"
+
+#: core/html/settings.php:184
+msgid "Advanced"
+msgstr "Avanzate"
+
+#: core/html/settings.php:190
+msgid "Plugin Activity"
+msgstr "Attività del plugin"
+
+#: core/html/settings.php:195
+msgid "Save Settings"
+msgstr "Salva le impostazioni"
+
+#: core/html/settings.php:213
+msgid "Select Tailwind Version:"
+msgstr "Seleziona la versione Tailwind:"
+
+#: core/html/settings.php:214 core/html/settings.php:450
+msgid "Click"
+msgstr "Clic"
+
+#: core/html/settings.php:216
+msgid "Tailwind v3 (deprecated)"
+msgstr "Tailwind v3 (obsoleto)"
+
+#: core/html/settings.php:218
+msgid "Tailwind v4 (most-recommended)"
+msgstr "Tailwind v4 (più consigliato)"
+
+#: core/html/settings.php:221 core/html/settings.php:457
+msgid "exit"
+msgstr "Uscita"
+
+#: core/html/settings.php:229
+msgid ""
+"Important Note: In version 4 of the Tailwind framework, many optimizations "
+"have been made, and its speed and performance have been greatly improved. "
+"Also, the `tailwind.config.js` file has been completely removed and standard "
+"CSS variables have been used in all component definitions, etc."
+msgstr ""
+"Nota importante: nella versione 4 del framework Tailwind sono state "
+"apportate numerose ottimizzazioni, migliorandone notevolmente velocità e "
+"prestazioni. Inoltre, il file `tailwind.config.js` è stato completamente "
+"rimosso e sono state utilizzate variabili CSS standard in tutte le "
+"definizioni dei componenti, ecc."
+
+#: core/html/settings.php:240
+msgid "Input CSS Configs (input.css)"
+msgstr "Configurazioni CSS di input (input.css)"
+
+#: core/html/settings.php:242
+msgid ""
+"Please do not use any backslash (\\) in this section. Do not use of `@import "
+"\"tailwindcss\"` at here"
+msgstr ""
+"Si prega di non utilizzare alcuna barra rovesciata (\\) in questa sezione. "
+"Non utilizzare `@import \"tailwindcss\"` qui."
+
+#: core/html/settings.php:246 core/html/settings.php:270
+#: core/html/settings.php:294 core/html/settings.php:318
+#: core/html/settings.php:371 core/html/settings.php:386
+#: core/html/settings.php:433 core/html/settings.php:521
+#: core/html/settings.php:543 core/html/settings.php:658
+#: core/html/settings.php:676
+msgid "Help:"
+msgstr "Aiuto:"
+
+#: core/html/settings.php:248
+msgid ""
+"This section refers to the contents of the input.css file of the Tailwind "
+"framework (Version: 4), in this section, for example, you can define your "
+"own components (@layer components) or set some custome theme properties "
+"(@theme)."
+msgstr ""
+"Questa sezione fa riferimento al contenuto del file input.css del framework "
+"Tailwind (versione: 4); in questa sezione, ad esempio, è possibile definire "
+"i propri componenti (@layer components) o impostare alcune proprietà "
+"personalizzate del tema (@theme)."
+
+#: core/html/settings.php:252 core/html/settings.php:324
+msgid "Click the below button to download a sample tailwind input.css file"
+msgstr ""
+"Fai clic sul pulsante in basso per scaricare un file tailwind input.css di "
+"esempio"
+
+#: core/html/settings.php:253 core/html/settings.php:277
+#: core/html/settings.php:301 core/html/settings.php:325
+msgid "Download"
+msgstr "Scaricamento"
+
+#: core/html/settings.php:264
+msgid "Your Global CSS Variables:"
+msgstr "Le tue variabili CSS globali:"
+
+#: core/html/settings.php:266 core/html/settings.php:289
+#: core/html/settings.php:314
+msgid "Please do not use any backslash (\\) in this section"
+msgstr "Si prega di non utilizzare barre rovesciate (\\) in questa sezione"
+
+#: core/html/settings.php:272
+msgid ""
+"In this section, you can define your global CSS variables globally so that "
+"all parts of your code are more compatible with Tailwind version 4."
+msgstr ""
+"In questa sezione puoi definire le tue variabili CSS globali a livello "
+"globale, in modo che tutte le parti del tuo codice siano più compatibili con "
+"Tailwind versione 4."
+
+#: core/html/settings.php:276
+msgid ""
+"Click the below button to download a sample css file with codes (::root)"
+msgstr ""
+"Fare clic sul pulsante sottostante per scaricare un file css di esempio con "
+"i codici (::root)"
+
+#: core/html/settings.php:287
+msgid "Your Configs (JS):"
+msgstr "Le tue configurazioni (JS):"
+
+#: core/html/settings.php:296
+msgid ""
+"The meaning of this section is the same information in the tailwind.config."
+"js file that you can enter in this section in a personalized way."
+msgstr ""
+"Il significato di questa sezione sono le stesse informazioni presenti nel "
+"file tailwind.config.js che puoi inserire in questa sezione in modo "
+"personalizzato."
+
+#: core/html/settings.php:300
+msgid "Click the below button to download a sample tailwind.config.js file"
+msgstr ""
+"Fai clic sul pulsante in basso per scaricare un file tailwind.config.js di "
+"esempio"
+
+#: core/html/settings.php:312
+msgid "Your Configs (CSS):"
+msgstr "Le tue configurazioni (CSS):"
+
+#: core/html/settings.php:320
+msgid ""
+"This section refers to the contents of the input.css file of the Tailwind "
+"framework, in this section, for example, you can define your own components."
+msgstr ""
+"Questa sezione fa riferimento al contenuto del file input.css del framework "
+"Tailwind, in questa sezione, ad esempio, è possibile definire i propri "
+"componenti."
+
+#: core/html/settings.php:342
+msgid "Official Plugins:"
+msgstr "Plugin ufficiali:"
+
+#: core/html/settings.php:345
+msgid "Forms"
+msgstr "Forme"
+
+#: core/html/settings.php:350
+msgid "Line-Clamp"
+msgstr "Line-Clamp"
+
+#: core/html/settings.php:355
+msgid "Typography"
+msgstr "Tipografia"
+
+#: core/html/settings.php:360
+msgid "Aspect-Ratio"
+msgstr "Rapporto d'aspetto"
+
+#: core/html/settings.php:365
+msgid "Container-Queries"
+msgstr "Container-Queries"
+
+#: core/html/settings.php:373
+msgid ""
+"If you dont know what Tailwind framework plugins are and how to use them, "
+"you can get more information using the guide link below."
+msgstr ""
+"Se non sai cosa sono i plugin del framework Tailwind e come usarli, puoi "
+"ottenere maggiori informazioni utilizzando il link della guida qui sotto."
+
+#: core/html/settings.php:377
+msgid "Click the below button for more information about Tailwind-Plugins"
+msgstr ""
+"Fare clic sul pulsante in basso per ulteriori informazioni sui plug-in "
+"Tailwind"
+
+#: core/html/settings.php:378
+msgid "Plugin-Docs"
+msgstr "Documenti sui plugin"
+
+#: core/html/settings.php:388
+msgid ""
+"Note: Plugins have been removed in Tailwind version 4 and are no longer "
+"useful"
+msgstr ""
+"Nota: i plugin sono stati rimossi nella versione 4 di Tailwind e non sono "
+"più utili"
+
+#: core/html/settings.php:399
+msgid "Use Post-types?"
+msgstr "Utilizzare i tipi di post?"
+
+#: core/html/settings.php:406
+msgid ""
+"By default, this plugin works only on WordPress pages and posts, but you can "
+"change this according to your needs."
+msgstr ""
+"Per impostazione predefinita, questo plugin funziona solo su pagine e post "
+"di WordPress, ma puoi modificarlo in base alle tue esigenze."
+
+#: core/html/settings.php:435
+msgid ""
+"It is better to select and activate only post types that are active and "
+"visible on the front-end of your site"
+msgstr ""
+"È meglio selezionare e attivare solo i tipi di post attivi e visibili nel "
+"front-end del tuo sito"
+
+#: core/html/settings.php:448
+msgid "How to add Productive CSS files?"
+msgstr "Come aggiungere file CSS produttivi?"
+
+#: core/html/settings.php:452
+msgid "inline (head-tag)"
+msgstr "in linea (tag head)"
+
+#: core/html/settings.php:454
+msgid "External CSS-file"
+msgstr "File CSS esterno"
+
+#: core/html/settings.php:465
+msgid ""
+"Note: External CSS file type creates one CSS file per page or post and "
+"consumes more (disk space) of your server."
+msgstr ""
+"Nota: il tipo di file CSS esterno crea un file CSS per pagina o post e "
+"consuma più spazio su disco del tuo server."
+
+#: core/html/settings.php:470
+msgid "Select Template-Type Post-types:"
+msgstr "Seleziona i tipi di post del tipo di modello:"
+
+#: core/html/settings.php:508
+msgid ""
+"It seems that you have not activated any post type! To view and use this "
+"section, you must activate at least one option in the post types section!"
+msgstr ""
+"Sembra che tu non abbia attivato nessun tipo di post! Per visualizzare e "
+"utilizzare questa sezione, devi attivare almeno un'opzione nella sezione "
+"Tipi di post!"
+
+#: core/html/settings.php:512
+msgid "Re-check"
+msgstr "Ricontrollare"
+
+#: core/html/settings.php:523
+msgid ""
+"In the external CSS file generation mode, you can generate a common CSS file "
+"for each post type by selecting post types that act as templates (such as "
+"WooCommerce products), not a separate file for each product."
+msgstr ""
+"Nella modalità di generazione di file CSS esterni, puoi generare un file CSS "
+"comune per ogni tipo di post selezionando tipi di post che fungono da "
+"modelli (come i prodotti WooCommerce), non un file separato per ciascun "
+"prodotto."
+
+#: core/html/settings.php:527 core/html/settings.php:568
+msgid ""
+"Setting this up will help further optimize your site and server resources"
+msgstr ""
+"Configurarlo ti aiuterà a ottimizzare ulteriormente le risorse del tuo sito "
+"e del tuo server"
+
+#: core/html/settings.php:532 core/html/settings.php:609
+msgid "Warning:"
+msgstr "Avvertimento:"
+
+#: core/html/settings.php:534
+msgid ""
+"Use template mode for the post-types only if the design of all its pages has "
+"the same HTML code"
+msgstr ""
+"Utilizza la modalità modello per i tipi di post solo se il design di tutte "
+"le sue pagine ha lo stesso codice HTML"
+
+#: core/html/settings.php:539
+msgid "Clear-All Static-CSS-files"
+msgstr "Cancella tutti i file CSS statici"
+
+#: core/html/settings.php:548
+msgid ""
+"Use with caution: Use the button above to clear all CSS files generated by "
+"this plugin."
+msgstr ""
+"Da usare con cautela: usa il pulsante qui sopra per cancellare tutti i file "
+"CSS generati da questo plugin."
+
+#: core/html/settings.php:552
+msgid ""
+"Note: After cleaning, it is better to disable the production mode for all "
+"your posts and pages (you can use the buttons below in the -- Production "
+"Mode -- Section)"
+msgstr ""
+"Nota: dopo la pulizia, è meglio disabilitare la modalità di produzione per "
+"tutti i tuoi post e pagine (puoi utilizzare i pulsanti sotto nella sezione "
+"-- Modalità di produzione --)"
+
+#: core/html/settings.php:554
+msgid "Go to Section"
+msgstr "Vai alla Sezione"
+
+#: core/html/settings.php:559
+msgid "Folder-url:"
+msgstr "URL della cartella:"
+
+#: core/html/settings.php:572
+msgid "Select Template-Type Custom-taxonomies:"
+msgstr "Seleziona tassonomie personalizzate del tipo di modello:"
+
+#: core/html/settings.php:605
+msgid ""
+"Tip: You can put WordPress custom taxonomies into the production CSS mode "
+"only in the template mode"
+msgstr ""
+"Astuce : Vous pouvez mettre les taxonomies personnalisées WordPress en mode "
+"CSS de production uniquement en mode modèle."
+
+#: core/html/settings.php:611
+msgid ""
+"Use template mode for the Taxonomy only if the design of all its pages has "
+"the same HTML code"
+msgstr ""
+"Utilizza la modalità modello per la tassonomia solo se il design di tutte le "
+"sue pagine ha lo stesso codice HTML"
+
+#: core/html/settings.php:624
+msgid "Deactivate Elementor Compatibility?"
+msgstr "Disattivare la compatibilità con Elementor?"
+
+#: core/html/settings.php:631
+msgid ""
+"If you dont have Elementor page builder or if you dont use this feature, "
+"activate the above option"
+msgstr ""
+"Se non disponi del page builder Elementor o se non utilizzi questa funzione, "
+"attiva l'opzione sopra"
+
+#: core/html/settings.php:633
+msgid ""
+"Note: By default, a special section (textarea) for writing Tailwind classes "
+"has been added to all Elementor widgets of your site"
+msgstr ""
+"Nota: per impostazione predefinita, a tutti i widget Elementor del tuo sito "
+"è stata aggiunta una sezione speciale (textarea) per scrivere le classi "
+"Tailwind"
+
+#: core/html/settings.php:638
+msgid "Deactivate Gutenberg Compatibility?"
+msgstr "Disattivare la compatibilità Gutenberg?"
+
+#: core/html/settings.php:645
+msgid ""
+"If you are not using the default WordPress page builder (Gutenberg) or if "
+"you have disabled it, enable the above option."
+msgstr ""
+"Se non stai utilizzando il page builder predefinito di WordPress (Gutenberg) "
+"o se lo hai disabilitato, abilita l'opzione sopra."
+
+#: core/html/settings.php:647
+msgid ""
+"Note: By default, a special section (textarea) for writing Tailwind classes "
+"has been added to all Gutenberg widgets of your site"
+msgstr ""
+"Nota: per impostazione predefinita, a tutti i widget Gutenberg del tuo sito "
+"è stata aggiunta una sezione speciale (textarea) per scrivere le classi "
+"Tailwind"
+
+#: core/html/settings.php:651
+msgid "-- Production Mode --"
+msgstr "-- Modalità di produzione --"
+
+#: core/html/settings.php:654
+msgid "Set all to Productive-Mode"
+msgstr "Imposta tutto sulla modalità produttiva"
+
+#: core/html/settings.php:660
+msgid ""
+"Converts all posts, pages and other post types that use Taily to productive-"
+"mode"
+msgstr ""
+"Converte tutti i post, le pagine e gli altri tipi di post che utilizzano "
+"Taily in modalità produttiva"
+
+#: core/html/settings.php:664
+msgid ""
+"If your design is complete, you can use the above option to load pages faster"
+msgstr ""
+"Se il tuo progetto è completo, puoi utilizzare l'opzione sopra per caricare "
+"le pagine più velocemente"
+
+#: core/html/settings.php:672
+msgid "Set all to Non-Productive-Mode"
+msgstr "Imposta tutto sulla modalità non produttiva"
+
+#: core/html/settings.php:678
+msgid ""
+"Converts all posts, pages and other post types that use Taily to non-"
+"productive-mode (Editing Mode)"
+msgstr ""
+"Converte tutti i post, le pagine e gli altri tipi di post che utilizzano "
+"Taily in modalità non produttiva (modalità di modifica)"
+
+#: core/html/settings.php:685
+msgid "Change to non-productive mode when editing post?"
+msgstr "Passare alla modalità non produttiva durante la modifica del post?"
+
+#: core/html/settings.php:692
+msgid ""
+"Every time you hit the edit button on a post or page, it automatically "
+"changes its mode to non-productive mode."
+msgstr ""
+"Ogni volta che premi il pulsante di modifica su un post o una pagina, cambia "
+"automaticamente la sua modalità in modalità non produttiva."
+
+#: core/html/settings.php:697
+msgid "Add Tailwind-JS file locally"
+msgstr "Aggiungi il file Tailwind-JS localmente"
+
+#: core/html/settings.php:704
+msgid "You can use this option if using Tailwind CDN slows down your site"
+msgstr ""
+"Puoi utilizzare questa opzione se l'utilizzo della CDN Tailwind rallenta il "
+"tuo sito"
+
+#: core/html/settings.php:706
+msgid ""
+"Note: Activating this item can interfere with the functionality of Tailwind "
+"plugins"
+msgstr ""
+"Nota: l'attivazione di questo elemento può interferire con la funzionalità "
+"dei plug-in Tailwind"
+
+#: core/html/settings.php:719
+msgid "Wordpress Cache"
+msgstr "Cache di Wordpress"
+
+#: core/html/settings.php:722
+msgid "Cache Compatibility"
+msgstr "Compatibilità della cache"
+
+#: core/html/settings.php:729
+msgid "Note: If you use cache plugins such as Wp-Rocket, enable this option"
+msgstr ""
+"Nota: se utilizzi plugin di cache come Wp-Rocket, abilita questa opzione"
+
+#: core/html/settings.php:740
+msgid "Disable Plugin?"
+msgstr "Disabilitare il plugin?"
+
+#: core/html/settings.php:747
+msgid ""
+"This option is used for temporary deactivations or for troubleshooting, if "
+"you dont want to use this plugin completely, its better to delete it!"
+msgstr ""
+"Questa opzione viene utilizzata per disattivazioni temporanee o per la "
+"risoluzione dei problemi, se non vuoi utilizzare completamente questo "
+"plugin, è meglio eliminarlo!"
+
+#: core/html/settings.php:752
+msgid "Clearing while Uninstall"
+msgstr "Cancellazione durante la disinstallazione"
+
+#: core/html/settings.php:759
+msgid ""
+"By activating this option, when deleting this plugin, all its data stored in "
+"your database will be deleted forever"
+msgstr ""
+"Attivando questa opzione, quando elimini questo plugin, tutti i suoi dati "
+"archiviati nel tuo database verranno eliminati per sempre"
+
+#: core/html/settings.php:779
+msgid "help"
+msgstr "aiuto"
+
+#: core/html/settings.php:783
+msgid "Free Plugins"
+msgstr "Plugin gratuiti"
+
+#: core/html/settings.php:787
+msgid "Contact Us"
+msgstr "Contattaci"
+
+#: core/html/settings.php:795
+msgid "About Taily »"
+msgstr "A proposito di Taily »"
+
+#: core/html/settings.php:798
+msgid ""
+"This completely free plugin is written with the goal of faster and easier "
+"WordPress front-end development by the popular Tailwind framework. We hope "
+"that with the help of this plugin you will be able to use the Tailwind CSS "
+"framework."
+msgstr ""
+"Questo plugin completamente gratuito è scritto con l'obiettivo di uno "
+"sviluppo front-end WordPress più rapido e semplice tramite il popolare "
+"framework Tailwind. Ci auguriamo che con l'aiuto di questo plugin sarai in "
+"grado di utilizzare il framework CSS Tailwind."
+
+#: core/html/settings.php:802 core/html/settings.php:806
+msgid ""
+"This free plugin has been coded in an object-oriented way, and during the "
+"coding process, maintaining the speed and optimality of the clients site has "
+"been and will be our Main Priority."
+msgstr ""
+"Questo plugin gratuito è stato codificato in modo orientato agli oggetti e "
+"durante il processo di codifica, mantenere la velocità e l'ottimalità del "
+"sito del cliente è stata e sarà la nostra priorità principale."
+
+#: core/html/settings.php:810
+msgid ""
+"Important: If your design process is finished, in order to optimize the "
+"speed of the pages made with Taily as much as possible, use the production "
+"mode button to convert all your pages to this mode"
+msgstr ""
+"Importante: se il processo di progettazione è terminato, per ottimizzare il "
+"più possibile la velocità delle pagine realizzate con Taily, utilizza il "
+"pulsante della modalità produzione per convertire tutte le tue pagine in "
+"questa modalità"
+
+#: core/html/settings.php:814
+msgid ""
+"Supported Languages: Arabic, English, Greek, Persian, French, Italian, "
+"Spanish, Russian, Japanese, Chinese"
+msgstr ""
+"Lingue supportate: arabo, inglese, greco, persiano, francese, italiano, "
+"spagnolo, russo, giapponese, cinese"
+
+#: core/html/settings.php:816
+msgid "Created by: < Mdesign />"
+msgstr "Creato da: Mdesign"
+
+#: core/html/settings.php:834
+msgid "Saved Successfully!"
+msgstr "Salvato con successo!"
+
+#: core/html/settings.php:835
+msgid "No changes to save. But it was saved anyway!"
+msgstr "Nessuna modifica da salvare. Ma è stato comunque salvato!"
+
+#: core/html/settings.php:836
+msgid "Please wait for the page to reload..."
+msgstr "Per favore attendi che la pagina si ricarichi..."
+
+#: core/html/settings.php:837
+msgid "Done!"
+msgstr "Fatto!"
+
+#: core/html/settings.php:838
+msgid "Selected"
+msgstr "Selezionata"
+
+#: core/html/settings.php:839
+msgid "Are you sure? => note that this operation is irreversible"
+msgstr "Sei sicuro? => notare che questa operazione è irreversibile"
+
+#: elementor/taily-textarea.php:66
+msgid "Taily-CSS"
+msgstr "Taily-CSS"
+
+#: elementor/taily-textarea.php:74
+msgid "CSS-Classes"
+msgstr "Classi CSS"
+
+#: elementor/taily-textarea.php:84
+msgid "Add your custom class WITHOUT the dot. e.g: w-full text-center ..."
+msgstr ""
+"Aggiungi la tua classe personalizzata SENZA il punto. ad esempio: w-full "
+"text-center text-yellow-700"
+
+#: elementor/taily-textarea.php:124
+msgid "Taily Page Settings"
+msgstr "Impostazioni della pagina Taily"
+
+#: elementor/taily-textarea.php:137
+msgid "Active"
+msgstr "Attivo"
+
+#: elementor/taily-textarea.php:138
+msgid "InActive"
+msgstr "spenta"
+
+# read-me file
+#~ msgid ""
+#~ "Tailwind-Framework for Wordpress (Fast & Optimized),Unparalleled "
+#~ "Versatility, Advanced Elementor & Gutenberg integration and etc..."
+#~ msgstr ""
+#~ "Framework Tailwind per Wordpress (veloce e ottimizzato), versatilità "
+#~ "senza pari, integrazione avanzata di Elementor e Gutenberg, ecc..."

@@ -1,0 +1,33 @@
+//Extra Translations
+
+# plugin main descs
+msgid "Tailwind-Css Framework for Wordpress => 🎨 (very fast & optimized system)"
+msgstr ""
+
+# read-me file
+msgid "Tailwind-Framework for Wordpress (Fast & Optimized)"
+msgstr ""
+
+# read-me file
+msgid "By adding the Tailwind framework to your WordPress in a completely dynamic way, you can design and style all parts of your site using this powerful framework, this plugin is also a new and suitable platform for developing WordPress Themes in a more optimal & faster way. This plugin also is compatible with the default WordPress page builder, Gutenberg, and the very popular Elementor page builder."
+msgstr ""
+
+# read-me file
+msgid "To install the plugin, just search the term `Taily` or `Tailwind` in the wordpress repository!"
+msgstr ""
+
+# read-me file
+msgid "you may Update only from the official WordPress plugin repository"
+msgstr ""
+
+# read-me file
+msgid "Before deleting the plugin, you can delete all the information of this plugin in your site's database forever by activating the `Clearing while Uninstall` option when deleting."
+msgstr ""
+
+# read-me file
+msgid "Look for the settings page named as (Taily) of this plugin in the WordPress Main-Menu side-bar"
+msgstr ""
+
+# read-me file
+msgid "Unfortunately, support for this plugin is not available at this moment, But in very urgent cases, you can contact us through our official email as well as our team's Telegram"
+msgstr ""

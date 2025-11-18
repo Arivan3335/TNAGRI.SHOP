@@ -1,0 +1,928 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2025-08-17 04:08+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+# plugin main descs
+msgid "Tailwind-Css Framework for Wordpress => 🎨 (very fast & optimized system)"
+msgstr ""
+"Tailwind-Css Framework για Wordpress => 🎨 (πολύ γρήγορο και βελτιστοποιημένο "
+"σύστημα)"
+
+# plugin main descs
+msgid "Tailwind-Framework for Wordpress (Fast & Optimized)"
+msgstr "Tailwind-Framework για Wordpress (Γρήγορο & Βελτιστοποιημένο)"
+
+# read-me file
+msgid ""
+"By adding the Tailwind framework to your WordPress in a completely dynamic "
+"way, you can design and style all parts of your site using this powerful "
+"framework, this plugin is also a new and suitable platform for developing "
+"WordPress Themes in a more optimal & faster way. This plugin also is "
+"compatible with the default WordPress page builder, Gutenberg, and the very "
+"popular Elementor page builder."
+msgstr ""
+"Προσθέτοντας το πλαίσιο Tailwind στο WordPress σας με εντελώς δυναμικό τρόπο, "
+"μπορείτε να σχεδιάσετε και να διαμορφώσετε όλα τα μέρη του ιστότοπού σας "
+"χρησιμοποιώντας αυτό το ισχυρό πλαίσιο, αυτό το πρόσθετο είναι επίσης μια νέα "
+"και κατάλληλη πλατφόρμα για την ανάπτυξη θεμάτων WordPress με πιο βέλτιστο "
+"και ταχύτερο τρόπο. Αυτό το πρόσθετο είναι επίσης συμβατό με το προεπιλεγμένο "
+"πρόγραμμα δημιουργίας σελίδων WordPress, Gutenberg, και το πολύ δημοφιλές "
+"πρόγραμμα δημιουργίας σελίδων Elementor."
+
+# read-me file
+msgid ""
+"To install the plugin, just search the term `Taily` or `Tailwind` in the "
+"wordpress repository!"
+msgstr ""
+"Για να εγκαταστήσετε το πρόσθετο, απλώς αναζητήστε τον όρο «Taily» ή "
+"«Tailwind» στο αποθετήριο του wordpress!"
+
+# read-me file
+msgid "you may Update only from the official WordPress plugin repository"
+msgstr ""
+"μπορείτε να ενημερώσετε μόνο από το επίσημο αποθετήριο προσθηκών WordPress"
+
+msgid ""
+"Before deleting the plugin, you can delete all the information of this plugin "
+"in your site's database forever by activating the `Clearing while Uninstall` "
+"option when deleting."
+msgstr ""
+"Πριν διαγράψετε την προσθήκη, μπορείτε να διαγράψετε όλες τις πληροφορίες "
+"αυτής της προσθήκης στη βάση δεδομένων του ιστότοπού σας για πάντα, "
+"ενεργοποιώντας την επιλογή «Διαγραφή κατά την απεγκατάσταση» κατά τη διαγραφή."
+
+# read-me file
+msgid ""
+"Look for the settings page named as (Taily) of this plugin in the WordPress "
+"Main-Menu side-bar"
+msgstr ""
+"Αναζητήστε τη σελίδα ρυθμίσεων που ονομάζεται (Taily) αυτής της προσθήκης "
+"στην πλαϊνή γραμμή του κύριου μενού του WordPress"
+
+# read-me file
+msgid ""
+"Unfortunately, support for this plugin is not available at this moment, But "
+"in very urgent cases, you can contact us through our official email as well "
+"as our team's Telegram"
+msgstr ""
+"Δυστυχώς, η υποστήριξη για αυτό το πρόσθετο δεν είναι διαθέσιμη αυτήν τη "
+"στιγμή, αλλά σε πολύ επείγουσες περιπτώσεις, μπορείτε να επικοινωνήσετε μαζί "
+"μας μέσω του επίσημου email μας καθώς και μέσω του Telegram της ομάδας μας"
+
+#: taily.php:35
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: blocks-taily-settings/node_modules/flatted/python/test.py:24
+msgid "two"
+msgstr "δύο"
+
+#: blocks-taily-settings/node_modules/flatted/python/test.py:39
+msgid "test"
+msgstr "δοκιμή"
+
+#: core/admin.php:371
+msgid "Taily"
+msgstr "Taily"
+
+#: core/admin.php:384
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: core/admin.php:392 core/admin.php:393
+msgid "Free plugins"
+msgstr "Δωρεάν πρόσθετα"
+
+#: core/admin.php:402
+msgid "Exclusive design"
+msgstr "Αποκλειστικός σχεδιασμός"
+
+#: core/admin.php:649 core/html/settings.php:494 core/html/settings.php:591
+#: elementor/taily-textarea.php:132
+msgid "Productive Mode?"
+msgstr "Παραγωγική λειτουργία;"
+
+#: core/admin.php:656 elementor/taily-textarea.php:133
+msgid ""
+"Help: Whenever the design of this page is finished, you can activate this "
+"option so that all the CSS codes of this page are added to the page more "
+"optimally and do not slow down the rendering speed of the page."
+msgstr ""
+"Βοήθεια: Κάθε φορά που τελειώνει η σχεδίαση αυτής της σελίδας, μπορείτε να "
+"ενεργοποιήσετε αυτήν την επιλογή, ώστε όλοι οι κωδικοί CSS αυτής της σελίδας "
+"να προστίθενται στη σελίδα πιο βέλτιστα και να μην επιβραδύνεται η ταχύτητα "
+"απόδοσης της σελίδας."
+
+#: core/admin.php:691
+msgid "Taily (WP-TailwindCss)"
+msgstr "Taily (WP-TailwindCss)"
+
+#: core/html/design.php:96
+msgid "Your Logo"
+msgstr "Το λογότυπό σας"
+
+#: core/html/design.php:99
+msgid "Your Slogan..."
+msgstr "Το σύνθημά σας..."
+
+#: core/html/design.php:107
+msgid "Home"
+msgstr "Αρχική σελίδα"
+
+#: core/html/design.php:109
+msgid "About"
+msgstr "Σχετικά με"
+
+#: core/html/design.php:111
+msgid "Products"
+msgstr "Προϊόντα"
+
+#: core/html/design.php:113
+msgid "Contact"
+msgstr "Επικοινωνία"
+
+#: core/html/design.php:136
+msgid "Color of the Year -2024-"
+msgstr "Χρώμα της Χρονιάς -2024-"
+
+#: core/html/design.php:144
+msgid "Order Now 💬"
+msgstr "Παράγγειλε τώρα 💬"
+
+#: core/html/design.php:146 core/html/design.php:238
+msgid "Contact Taily-Team"
+msgstr "Επικοινωνήστε μαζί μας"
+
+#: core/html/design.php:185 core/html/design.php:189
+msgid "click to change"
+msgstr "κάντε κλικ για αλλαγή"
+
+#: core/html/design.php:185
+msgid "Change Color"
+msgstr "Αλλαξε χρώμα"
+
+#: core/html/design.php:189
+msgid "Randomize Color"
+msgstr "Τυχαιοποίηση χρώματος"
+
+#: core/html/design.php:193
+msgid "Using this button, you can change the color theme of the above template"
+msgstr ""
+"Χρησιμοποιώντας αυτό το κουμπί, μπορείτε να αλλάξετε το χρωματικό θέμα του "
+"παραπάνω προτύπου"
+
+#: core/html/design.php:202
+msgid "Need a custom design on Wordpress?"
+msgstr "Χρειάζεστε ένα προσαρμοσμένο σχέδιο στο Wordpress;"
+
+#: core/html/design.php:203
+msgid "So stay in touch with us 👋"
+msgstr "Μείνετε λοιπόν σε επαφή μαζί μας 👋"
+
+#: core/html/design.php:224
+msgid "Our Services < />"
+msgstr "Οι υπηρεσίες μας < />"
+
+#: core/html/design.php:226
+msgid "Exclusive CMS design"
+msgstr "Αποκλειστικός σχεδιασμός CMS"
+
+#: core/html/design.php:227
+msgid "Exclusive PHP-API design"
+msgstr "Αποκλειστικός σχεδιασμός PHP-API"
+
+#: core/html/design.php:228
+msgid "Exclusive website design"
+msgstr "Αποκλειστικός σχεδιασμός ιστοσελίδας"
+
+#: core/html/design.php:229
+msgid "Wordpress website design"
+msgstr "Σχεδιασμός ιστοσελίδας wordpress"
+
+#: core/html/design.php:230
+msgid "Full Front-End design (Tailwind+React)"
+msgstr "Πλήρης σχεδιασμός Front-End (Tailwind+React)"
+
+#: core/html/design.php:231
+msgid "Dedicated Plugin and Theme design (wordpress)"
+msgstr "Σχεδιασμός αφιερωμένου πρόσθετου και θέματος (wordpress)"
+
+#: core/html/design.php:232
+msgid "Optimizing and increasing the professional speed of the site"
+msgstr "Βελτιστοποίηση και αύξηση της επαγγελματικής ταχύτητας του ιστότοπου"
+
+#: core/html/design.php:250 core/html/help.php:124 core/html/settings.php:821
+msgid "-- Designed and Powered by Tailwind ©"
+msgstr "-- Σχεδιάστηκε και τροφοδοτήθηκε από την Tailwind ©"
+
+#: core/html/design.php:265
+msgid "Please Wait..."
+msgstr "Παρακαλώ περιμένετε..."
+
+#: core/html/design.php:266
+msgid "Randomizing! 🥳"
+msgstr "Τυχαιοποίηση! 🥳"
+
+#: core/html/help.php:50
+msgid "Need any Help? 🤝"
+msgstr "Χρειαζεσαι καμια ΒΟΗΘΕΙΑ? 🤝"
+
+#: core/html/help.php:54
+msgid "Visit Tailwinds Official Website"
+msgstr "Επισκεφθείτε τον επίσημο ιστότοπο της Tailwind"
+
+#: core/html/help.php:58
+msgid "Tailwinds Documents"
+msgstr "Έγγραφα Tailwind"
+
+#: core/html/help.php:62
+msgid "Taily Documents (Soon...)"
+msgstr "Taily Documents (Σύντομα...)"
+
+#: core/html/help.php:68
+msgid "Contact us"
+msgstr "Επικοινωνήστε μαζί μας"
+
+#: core/html/help.php:73
+msgid "Email:"
+msgstr "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ:"
+
+#: core/html/help.php:80
+msgid "Official Telegram:"
+msgstr "Επίσημο τηλεγράφημα:"
+
+#: core/html/help.php:88
+msgid "--Database"
+msgstr "--Βάση δεδομένων"
+
+#: core/html/help.php:89
+msgid ""
+"The information that Taily plugin adds to your sites database and you should "
+"know them"
+msgstr ""
+"Τις πληροφορίες που προσθέτει το πρόσθετο Taily στη βάση δεδομένων των "
+"τοποθεσιών σας και θα πρέπει να τις γνωρίζετε"
+
+#: core/html/help.php:92
+msgid "-Post-Meta table (wp_postmeta)"
+msgstr "-Πίνακας Post-Meta (wp_postmeta)"
+
+#: core/html/help.php:106
+msgid "-Options table (wp_options)"
+msgstr "-Πίνακας επιλογών (wp_options)"
+
+#: core/html/help.php:108
+msgid "In general, any option with taily name prefix is ​​like: taily_settings"
+msgstr ""
+"Σε γενικές γραμμές, οποιαδήποτε επιλογή με πρόθεμα ονόματος taily είναι σαν: "
+"taily_settings"
+
+#: core/html/help.php:113
+msgid ""
+"Note: To clear all this information when deleting the plugin, go to the "
+"plugin settings page and activate the `Clearing while Uninstall` option in "
+"the plugin activity section."
+msgstr ""
+"Σημείωση: Για να διαγράψετε όλες αυτές τις πληροφορίες κατά τη διαγραφή της "
+"προσθήκης, μεταβείτε στη σελίδα ρυθμίσεων της προσθήκης και ενεργοποιήστε την "
+"επιλογή «Διαγραφή κατά την απεγκατάσταση» στην ενότητα δραστηριότητας "
+"προσθήκης."
+
+#: core/html/help.php:117
+msgid "Go to Settings"
+msgstr "Μεταβείτε στις Ρυθμίσεις"
+
+#: core/html/settings.php:138
+msgid "Taily Settings"
+msgstr "Ρυθμίσεις Taily"
+
+#: core/html/settings.php:140
+msgid "Tailwind Framework for Wordpress"
+msgstr "Tailwind Framework για Wordpress"
+
+#: core/html/settings.php:143
+msgid "Version:"
+msgstr "Εκδοχή:"
+
+#: core/html/settings.php:169
+msgid "Tailwind Settings"
+msgstr "Ρυθμίσεις Tailwind"
+
+#: core/html/settings.php:174
+msgid "Tailwind Plugins"
+msgstr "Tailwind Plugins"
+
+#: core/html/settings.php:179
+msgid "Post Types"
+msgstr "Τύποι αναρτήσεων"
+
+#: core/html/settings.php:184
+msgid "Advanced"
+msgstr "Προχωρημένος"
+
+#: core/html/settings.php:190
+msgid "Plugin Activity"
+msgstr "Δραστηριότητα πρόσθετων"
+
+#: core/html/settings.php:195
+msgid "Save Settings"
+msgstr "Αποθήκευση ρυθμίσεων"
+
+#: core/html/settings.php:213
+msgid "Select Tailwind Version:"
+msgstr "Επιλέξτε έκδοση Tailwind:"
+
+#: core/html/settings.php:214 core/html/settings.php:450
+msgid "Click"
+msgstr "Κάντε κλικ"
+
+#: core/html/settings.php:216
+msgid "Tailwind v3 (deprecated)"
+msgstr "Tailwind v3 (καταργημένο)"
+
+#: core/html/settings.php:218
+msgid "Tailwind v4 (most-recommended)"
+msgstr "Tailwind v4 (συνιστάται περισσότερο)"
+
+#: core/html/settings.php:221 core/html/settings.php:457
+msgid "exit"
+msgstr "έξοδος"
+
+#: core/html/settings.php:229
+msgid ""
+"Important Note: In version 4 of the Tailwind framework, many optimizations "
+"have been made, and its speed and performance have been greatly improved. "
+"Also, the `tailwind.config.js` file has been completely removed and standard "
+"CSS variables have been used in all component definitions, etc."
+msgstr ""
+"Σημαντική σημείωση: Στην έκδοση 4 του framework Tailwind, έχουν γίνει πολλές "
+"βελτιστοποιήσεις και η ταχύτητα και η απόδοσή του έχουν βελτιωθεί σημαντικά. "
+"Επίσης, το αρχείο `tailwind.config.js` έχει αφαιρεθεί εντελώς και έχουν "
+"χρησιμοποιηθεί τυπικές μεταβλητές CSS σε όλους τους ορισμούς στοιχείων κ.λπ."
+
+#: core/html/settings.php:240
+msgid "Input CSS Configs (input.css)"
+msgstr "Εισαγωγή ρυθμίσεων CSS (input.css)"
+
+#: core/html/settings.php:242
+msgid ""
+"Please do not use any backslash (\\) in this section. Do not use of `@import "
+"\"tailwindcss\"` at here"
+msgstr ""
+"Μην χρησιμοποιείτε ανάστροφη κάθετο (\\) σε αυτήν την ενότητα. Μην "
+"χρησιμοποιείτε το `@import \"tailwindcss\"` εδώ."
+
+#: core/html/settings.php:246 core/html/settings.php:270
+#: core/html/settings.php:294 core/html/settings.php:318
+#: core/html/settings.php:371 core/html/settings.php:386
+#: core/html/settings.php:433 core/html/settings.php:521
+#: core/html/settings.php:543 core/html/settings.php:658
+#: core/html/settings.php:676
+msgid "Help:"
+msgstr "Βοήθεια:"
+
+#: core/html/settings.php:248
+msgid ""
+"This section refers to the contents of the input.css file of the Tailwind "
+"framework (Version: 4), in this section, for example, you can define your own "
+"components (@layer components) or set some custome theme properties (@theme)."
+msgstr ""
+"Αυτή η ενότητα αναφέρεται στα περιεχόμενα του αρχείου input.css του πλαισίου "
+"Tailwind (Έκδοση: 4). Σε αυτήν την ενότητα, για παράδειγμα, μπορείτε να "
+"ορίσετε τα δικά σας στοιχεία (@στοιχεία επιπέδου) ή να ορίσετε ορισμένες "
+"ιδιότητες προσαρμοσμένου θέματος (@theme)."
+
+#: core/html/settings.php:252 core/html/settings.php:324
+msgid "Click the below button to download a sample tailwind input.css file"
+msgstr ""
+"Κάντε κλικ στο παρακάτω κουμπί για λήψη ενός δείγματος αρχείου tailwind input."
+"css"
+
+#: core/html/settings.php:253 core/html/settings.php:277
+#: core/html/settings.php:301 core/html/settings.php:325
+msgid "Download"
+msgstr "Κατεβάστε"
+
+#: core/html/settings.php:264
+msgid "Your Global CSS Variables:"
+msgstr "Οι καθολικές μεταβλητές CSS σας:"
+
+#: core/html/settings.php:266 core/html/settings.php:289
+#: core/html/settings.php:314
+msgid "Please do not use any backslash (\\) in this section"
+msgstr "Παρακαλώ μην χρησιμοποιείτε ανάστροφη κάθετο (\\) σε αυτήν την ενότητα"
+
+#: core/html/settings.php:272
+msgid ""
+"In this section, you can define your global CSS variables globally so that "
+"all parts of your code are more compatible with Tailwind version 4."
+msgstr ""
+"Σε αυτήν την ενότητα, μπορείτε να ορίσετε τις καθολικές μεταβλητές CSS σας "
+"καθολικά, έτσι ώστε όλα τα μέρη του κώδικά σας να είναι πιο συμβατά με την "
+"έκδοση 4 του Tailwind."
+
+#: core/html/settings.php:276
+msgid "Click the below button to download a sample css file with codes (::root)"
+msgstr ""
+"Κάντε κλικ στο παρακάτω κουμπί για να κατεβάσετε ένα δείγμα αρχείου css με "
+"κωδικούς (::root)"
+
+#: core/html/settings.php:287
+msgid "Your Configs (JS):"
+msgstr "Οι ρυθμίσεις σας (JS):"
+
+#: core/html/settings.php:296
+msgid ""
+"The meaning of this section is the same information in the tailwind.config.js "
+"file that you can enter in this section in a personalized way."
+msgstr ""
+"Η έννοια αυτής της ενότητας είναι οι ίδιες πληροφορίες στο αρχείο tailwind."
+"config.js που μπορείτε να εισαγάγετε σε αυτήν την ενότητα με εξατομικευμένο "
+"τρόπο."
+
+#: core/html/settings.php:300
+msgid "Click the below button to download a sample tailwind.config.js file"
+msgstr ""
+"Κάντε κλικ στο παρακάτω κουμπί για λήψη ενός δείγματος αρχείου tailwind."
+"config.js"
+
+#: core/html/settings.php:312
+msgid "Your Configs (CSS):"
+msgstr "Οι ρυθμίσεις σας (CSS):"
+
+#: core/html/settings.php:320
+msgid ""
+"This section refers to the contents of the input.css file of the Tailwind "
+"framework, in this section, for example, you can define your own components."
+msgstr ""
+"Αυτή η ενότητα αναφέρεται στα περιεχόμενα του αρχείου input.css του πλαισίου "
+"Tailwind, σε αυτήν την ενότητα, για παράδειγμα, μπορείτε να ορίσετε τα δικά "
+"σας στοιχεία."
+
+#: core/html/settings.php:342
+msgid "Official Plugins:"
+msgstr "Επίσημα πρόσθετα:"
+
+#: core/html/settings.php:345
+msgid "Forms"
+msgstr "Φόρμες"
+
+#: core/html/settings.php:350
+msgid "Line-Clamp"
+msgstr "Line-Clamp"
+
+#: core/html/settings.php:355
+msgid "Typography"
+msgstr "Τυπογραφία"
+
+#: core/html/settings.php:360
+msgid "Aspect-Ratio"
+msgstr "Αναλογία διαστάσεων"
+
+#: core/html/settings.php:365
+msgid "Container-Queries"
+msgstr "Container-Queries"
+
+#: core/html/settings.php:373
+msgid ""
+"If you dont know what Tailwind framework plugins are and how to use them, you "
+"can get more information using the guide link below."
+msgstr ""
+"Εάν δεν γνωρίζετε τι είναι τα πρόσθετα πλαισίου Tailwind και πώς να τα "
+"χρησιμοποιήσετε, μπορείτε να λάβετε περισσότερες πληροφορίες χρησιμοποιώντας "
+"τον παρακάτω σύνδεσμο οδηγού."
+
+#: core/html/settings.php:377
+msgid "Click the below button for more information about Tailwind-Plugins"
+msgstr ""
+"Κάντε κλικ στο παρακάτω κουμπί για περισσότερες πληροφορίες σχετικά με τα "
+"Tailwind-Plugins"
+
+#: core/html/settings.php:378
+msgid "Plugin-Docs"
+msgstr "Plugin-Docs"
+
+#: core/html/settings.php:388
+msgid ""
+"Note: Plugins have been removed in Tailwind version 4 and are no longer useful"
+msgstr ""
+"Σημείωση: Τα πρόσθετα έχουν αφαιρεθεί στην έκδοση 4 του Tailwind και δεν "
+"είναι πλέον χρήσιμα."
+
+#: core/html/settings.php:399
+msgid "Use Post-types?"
+msgstr "Να χρησιμοποιηθούν Post-types;"
+
+#: core/html/settings.php:406
+msgid ""
+"By default, this plugin works only on WordPress pages and posts, but you can "
+"change this according to your needs."
+msgstr ""
+"Από προεπιλογή, αυτό το πρόσθετο λειτουργεί μόνο σε σελίδες και αναρτήσεις "
+"WordPress, αλλά μπορείτε να το αλλάξετε ανάλογα με τις ανάγκες σας."
+
+#: core/html/settings.php:435
+msgid ""
+"It is better to select and activate only post types that are active and "
+"visible on the front-end of your site"
+msgstr ""
+"Είναι προτιμότερο να επιλέγετε και να ενεργοποιείτε μόνο τύπους αναρτήσεων "
+"που είναι ενεργοί και ορατοί στο μπροστινό μέρος του ιστότοπού σας"
+
+#: core/html/settings.php:448
+msgid "How to add Productive CSS files?"
+msgstr "Πώς να προσθέσετε παραγωγικά αρχεία CSS;"
+
+#: core/html/settings.php:452
+msgid "inline (head-tag)"
+msgstr "ενσωματωμένη (επικεφαλίδα)"
+
+#: core/html/settings.php:454
+msgid "External CSS-file"
+msgstr "Εξωτερικό αρχείο CSS"
+
+#: core/html/settings.php:465
+msgid ""
+"Note: External CSS file type creates one CSS file per page or post and "
+"consumes more (disk space) of your server."
+msgstr ""
+"Σημείωση: Ο εξωτερικός τύπος αρχείου CSS δημιουργεί ένα αρχείο CSS ανά σελίδα "
+"ή ανάρτηση και καταναλώνει περισσότερο (χώρο στο δίσκο) του διακομιστή σας."
+
+#: core/html/settings.php:470
+msgid "Select Template-Type Post-types:"
+msgstr "Επιλογή τύπου προτύπου ανάρτησης:"
+
+#: core/html/settings.php:508
+msgid ""
+"It seems that you have not activated any post type! To view and use this "
+"section, you must activate at least one option in the post types section!"
+msgstr ""
+"Φαίνεται ότι δεν έχετε ενεργοποιήσει κανένα τύπο ανάρτησης! Για να δείτε και "
+"να χρησιμοποιήσετε αυτήν την ενότητα, πρέπει να ενεργοποιήσετε τουλάχιστον "
+"μία επιλογή στην ενότητα τύπους αναρτήσεων!"
+
+#: core/html/settings.php:512
+msgid "Re-check"
+msgstr "επανέλεγχο"
+
+#: core/html/settings.php:523
+msgid ""
+"In the external CSS file generation mode, you can generate a common CSS file "
+"for each post type by selecting post types that act as templates (such as "
+"WooCommerce products), not a separate file for each product."
+msgstr ""
+"Στη λειτουργία δημιουργίας εξωτερικού αρχείου CSS, μπορείτε να δημιουργήσετε "
+"ένα κοινό αρχείο CSS για κάθε τύπο ανάρτησης επιλέγοντας τύπους αναρτήσεων "
+"που λειτουργούν ως πρότυπα (όπως προϊόντα WooCommerce), όχι ξεχωριστό αρχείο "
+"για κάθε προϊόν."
+
+#: core/html/settings.php:527 core/html/settings.php:568
+msgid ""
+"Setting this up will help further optimize your site and server resources"
+msgstr ""
+"Η ρύθμιση αυτού θα βοηθήσει στην περαιτέρω βελτιστοποίηση του ιστότοπού σας "
+"και των πόρων του διακομιστή σας"
+
+#: core/html/settings.php:532 core/html/settings.php:609
+msgid "Warning:"
+msgstr "Προειδοποίηση:"
+
+#: core/html/settings.php:534
+msgid ""
+"Use template mode for the post-types only if the design of all its pages has "
+"the same HTML code"
+msgstr ""
+"Χρησιμοποιήστε τη λειτουργία προτύπου για τους τύπους ανάρτησης μόνο εάν το "
+"σχέδιο όλων των σελίδων του έχει τον ίδιο κώδικα HTML"
+
+#: core/html/settings.php:539
+msgid "Clear-All Static-CSS-files"
+msgstr "Εκκαθάριση όλων των στατικών αρχείων CSS"
+
+#: core/html/settings.php:548
+msgid ""
+"Use with caution: Use the button above to clear all CSS files generated by "
+"this plugin."
+msgstr ""
+"Χρήση με προσοχή: Χρησιμοποιήστε το παραπάνω κουμπί για να διαγράψετε όλα τα "
+"αρχεία CSS που δημιουργούνται από αυτήν την προσθήκη."
+
+#: core/html/settings.php:552
+msgid ""
+"Note: After cleaning, it is better to disable the production mode for all "
+"your posts and pages (you can use the buttons below in the -- Production Mode "
+"-- Section)"
+msgstr ""
+"Σημείωση: Μετά τον καθαρισμό, είναι καλύτερο να απενεργοποιήσετε τη "
+"λειτουργία παραγωγής για όλες τις αναρτήσεις και τις σελίδες σας (μπορείτε να "
+"χρησιμοποιήσετε τα κουμπιά παρακάτω στην ενότητα -- Λειτουργία παραγωγής --)"
+
+#: core/html/settings.php:554
+msgid "Go to Section"
+msgstr "Μεταβείτε στην ενότητα"
+
+#: core/html/settings.php:559
+msgid "Folder-url:"
+msgstr "Φάκελος-url:"
+
+#: core/html/settings.php:572
+msgid "Select Template-Type Custom-taxonomies:"
+msgstr "Επιλέξτε προσαρμοσμένες ταξινομήσεις τύπου προτύπου:"
+
+#: core/html/settings.php:605
+msgid ""
+"Tip: You can put WordPress custom taxonomies into the production CSS mode "
+"only in the template mode"
+msgstr ""
+"Συμβουλή: Μπορείτε να βάλετε προσαρμοσμένες ταξινομίες του WordPress στη "
+"λειτουργία CSS παραγωγής μόνο στη λειτουργία προτύπου"
+
+#: core/html/settings.php:611
+msgid ""
+"Use template mode for the Taxonomy only if the design of all its pages has "
+"the same HTML code"
+msgstr ""
+"Χρησιμοποιήστε τη λειτουργία προτύπου για την Ταξινόμηση μόνο εάν το σχέδιο "
+"όλων των σελίδων του έχει τον ίδιο κώδικα HTML"
+
+#: core/html/settings.php:624
+msgid "Deactivate Elementor Compatibility?"
+msgstr "Απενεργοποίηση συμβατότητας Elementor;"
+
+#: core/html/settings.php:631
+msgid ""
+"If you dont have Elementor page builder or if you dont use this feature, "
+"activate the above option"
+msgstr ""
+"Εάν δεν διαθέτετε το πρόγραμμα δημιουργίας σελίδων Elementor ή εάν δεν "
+"χρησιμοποιείτε αυτήν τη δυνατότητα, ενεργοποιήστε την παραπάνω επιλογή"
+
+#: core/html/settings.php:633
+msgid ""
+"Note: By default, a special section (textarea) for writing Tailwind classes "
+"has been added to all Elementor widgets of your site"
+msgstr ""
+"Σημείωση: Από προεπιλογή, μια ειδική ενότητα (textarea) για τη σύνταξη "
+"κλάσεων Tailwind έχει προστεθεί σε όλα τα γραφικά στοιχεία Elementor του "
+"ιστότοπού σας"
+
+#: core/html/settings.php:638
+msgid "Deactivate Gutenberg Compatibility?"
+msgstr "Απενεργοποίηση της συμβατότητας Gutenberg;"
+
+#: core/html/settings.php:645
+msgid ""
+"If you are not using the default WordPress page builder (Gutenberg) or if you "
+"have disabled it, enable the above option."
+msgstr ""
+"Εάν δεν χρησιμοποιείτε το προεπιλεγμένο εργαλείο δημιουργίας σελίδων "
+"WordPress (Gutenberg) ή εάν το έχετε απενεργοποιήσει, ενεργοποιήστε την "
+"παραπάνω επιλογή."
+
+#: core/html/settings.php:647
+msgid ""
+"Note: By default, a special section (textarea) for writing Tailwind classes "
+"has been added to all Gutenberg widgets of your site"
+msgstr ""
+"Σημείωση: Από προεπιλογή, μια ειδική ενότητα (textarea) για τη σύνταξη τάξεων "
+"Tailwind έχει προστεθεί σε όλα τα γραφικά στοιχεία Gutenberg του ιστότοπού σας"
+
+#: core/html/settings.php:651
+msgid "-- Production Mode --"
+msgstr "-- Τρόπος παραγωγής --"
+
+#: core/html/settings.php:654
+msgid "Set all to Productive-Mode"
+msgstr "Ρυθμίστε όλα στη λειτουργία παραγωγικής λειτουργίας"
+
+#: core/html/settings.php:660
+msgid ""
+"Converts all posts, pages and other post types that use Taily to productive-"
+"mode"
+msgstr ""
+"Μετατρέπει όλες τις αναρτήσεις, τις σελίδες και άλλους τύπους αναρτήσεων που "
+"χρησιμοποιούν το Taily σε παραγωγική λειτουργία"
+
+#: core/html/settings.php:664
+msgid ""
+"If your design is complete, you can use the above option to load pages faster"
+msgstr ""
+"Εάν το σχέδιό σας είναι ολοκληρωμένο, μπορείτε να χρησιμοποιήσετε την "
+"παραπάνω επιλογή για να φορτώσετε σελίδες πιο γρήγορα"
+
+#: core/html/settings.php:672
+msgid "Set all to Non-Productive-Mode"
+msgstr "Ρυθμίστε τα πάντα σε Non-Productive-Mode"
+
+#: core/html/settings.php:678
+msgid ""
+"Converts all posts, pages and other post types that use Taily to non-"
+"productive-mode (Editing Mode)"
+msgstr ""
+"Μετατρέπει όλες τις αναρτήσεις, τις σελίδες και άλλους τύπους αναρτήσεων που "
+"χρησιμοποιούν το Taily σε μη παραγωγική λειτουργία (Λειτουργία επεξεργασίας)"
+
+#: core/html/settings.php:685
+msgid "Change to non-productive mode when editing post?"
+msgstr "Αλλαγή σε μη παραγωγική λειτουργία κατά την επεξεργασία της ανάρτησης;"
+
+#: core/html/settings.php:692
+msgid ""
+"Every time you hit the edit button on a post or page, it automatically "
+"changes its mode to non-productive mode."
+msgstr ""
+"Κάθε φορά που πατάτε το κουμπί επεξεργασίας σε μια ανάρτηση ή σελίδα, αλλάζει "
+"αυτόματα τη λειτουργία σε μη παραγωγική λειτουργία."
+
+#: core/html/settings.php:697
+msgid "Add Tailwind-JS file locally"
+msgstr "Προσθέστε το αρχείο Tailwind-JS τοπικά"
+
+#: core/html/settings.php:704
+msgid "You can use this option if using Tailwind CDN slows down your site"
+msgstr ""
+"Μπορείτε να χρησιμοποιήσετε αυτήν την επιλογή εάν η χρήση του Tailwind CDN "
+"επιβραδύνει τον ιστότοπό σας"
+
+#: core/html/settings.php:706
+msgid ""
+"Note: Activating this item can interfere with the functionality of Tailwind "
+"plugins"
+msgstr ""
+"Σημείωση: Η ενεργοποίηση αυτού του στοιχείου μπορεί να επηρεάσει τη "
+"λειτουργικότητα των πρόσθετων Tailwind"
+
+#: core/html/settings.php:719
+msgid "Wordpress Cache"
+msgstr "Wordpress Cache"
+
+#: core/html/settings.php:722
+msgid "Cache Compatibility"
+msgstr "Συμβατότητα προσωρινής μνήμης"
+
+#: core/html/settings.php:729
+msgid "Note: If you use cache plugins such as Wp-Rocket, enable this option"
+msgstr ""
+"Σημείωση: Εάν χρησιμοποιείτε πρόσθετα προσωρινής αποθήκευσης όπως το Wp-"
+"Rocket, ενεργοποιήστε αυτήν την επιλογή"
+
+#: core/html/settings.php:740
+msgid "Disable Plugin?"
+msgstr "Απενεργοποίηση προσθήκης;"
+
+#: core/html/settings.php:747
+msgid ""
+"This option is used for temporary deactivations or for troubleshooting, if "
+"you dont want to use this plugin completely, its better to delete it!"
+msgstr ""
+"Αυτή η επιλογή χρησιμοποιείται για προσωρινές απενεργοποιήσεις ή για "
+"αντιμετώπιση προβλημάτων, εάν δεν θέλετε να χρησιμοποιήσετε πλήρως αυτό το "
+"πρόσθετο, καλύτερα να το διαγράψετε!"
+
+#: core/html/settings.php:752
+msgid "Clearing while Uninstall"
+msgstr "Εκκαθάριση κατά την απεγκατάσταση"
+
+#: core/html/settings.php:759
+msgid ""
+"By activating this option, when deleting this plugin, all its data stored in "
+"your database will be deleted forever"
+msgstr ""
+"Με την ενεργοποίηση αυτής της επιλογής, κατά τη διαγραφή αυτού του πρόσθετου, "
+"όλα τα δεδομένα του που είναι αποθηκευμένα στη βάση δεδομένων σας θα "
+"διαγραφούν για πάντα"
+
+#: core/html/settings.php:779
+msgid "help"
+msgstr "βοήθεια"
+
+#: core/html/settings.php:783
+msgid "Free Plugins"
+msgstr "Δωρεάν πρόσθετα"
+
+#: core/html/settings.php:787
+msgid "Contact Us"
+msgstr "Επικοινωνήστε μαζί μας"
+
+#: core/html/settings.php:795
+msgid "About Taily »"
+msgstr "Σχετικά με την Taily »"
+
+#: core/html/settings.php:798
+msgid ""
+"This completely free plugin is written with the goal of faster and easier "
+"WordPress front-end development by the popular Tailwind framework. We hope "
+"that with the help of this plugin you will be able to use the Tailwind CSS "
+"framework."
+msgstr ""
+"Αυτό το εντελώς δωρεάν πρόσθετο έχει γραφτεί με στόχο την ταχύτερη και "
+"ευκολότερη ανάπτυξη του front-end του WordPress από το δημοφιλές πλαίσιο "
+"Tailwind. Ελπίζουμε ότι με τη βοήθεια αυτού του πρόσθετου θα μπορέσετε να "
+"χρησιμοποιήσετε το πλαίσιο Tailwind CSS."
+
+#: core/html/settings.php:802 core/html/settings.php:806
+msgid ""
+"This free plugin has been coded in an object-oriented way, and during the "
+"coding process, maintaining the speed and optimality of the clients site has "
+"been and will be our Main Priority."
+msgstr ""
+"Αυτή η δωρεάν προσθήκη έχει κωδικοποιηθεί με αντικειμενοστραφή τρόπο και κατά "
+"τη διαδικασία κωδικοποίησης, η διατήρηση της ταχύτητας και της "
+"βελτιστοποίησης του ιστότοπου πελατών ήταν και θα είναι η κύρια προτεραιότητά "
+"μας."
+
+#: core/html/settings.php:810
+msgid ""
+"Important: If your design process is finished, in order to optimize the speed "
+"of the pages made with Taily as much as possible, use the production mode "
+"button to convert all your pages to this mode"
+msgstr ""
+"Σημαντικό: Εάν η διαδικασία σχεδιασμού σας έχει ολοκληρωθεί, για να "
+"βελτιστοποιήσετε όσο το δυνατόν περισσότερο την ταχύτητα των σελίδων που "
+"γίνονται με το Taily, χρησιμοποιήστε το κουμπί λειτουργίας παραγωγής για να "
+"μετατρέψετε όλες τις σελίδες σας σε αυτήν τη λειτουργία"
+
+#: core/html/settings.php:814
+msgid ""
+"Supported Languages: Arabic, English, Greek, Persian, French, Italian, "
+"Spanish, Russian, Japanese, Chinese"
+msgstr ""
+"Υποστηριζόμενες γλώσσες: Αραβικά, Αγγλικά, Ελληνικά, Περσικά, Γαλλικά, "
+"Ιταλικά, Ισπανικά, Ρωσικά, Ιαπωνικά, Κινέζικα"
+
+#: core/html/settings.php:816
+msgid "Created by: < Mdesign />"
+msgstr "Δημιουργήθηκε από: Mdesign"
+
+#: core/html/settings.php:834
+msgid "Saved Successfully!"
+msgstr "Αποθηκεύτηκε επιτυχώς!"
+
+#: core/html/settings.php:835
+msgid "No changes to save. But it was saved anyway!"
+msgstr "Δεν υπάρχουν αλλαγές για αποθήκευση. Αλλά έτσι κι αλλιώς σώθηκε!"
+
+#: core/html/settings.php:836
+msgid "Please wait for the page to reload..."
+msgstr "Περιμένετε να φορτώσει ξανά η σελίδα..."
+
+#: core/html/settings.php:837
+msgid "Done!"
+msgstr "Εγινε!"
+
+#: core/html/settings.php:838
+msgid "Selected"
+msgstr "Επιλεγμένο"
+
+#: core/html/settings.php:839
+msgid "Are you sure? => note that this operation is irreversible"
+msgstr "Είσαι σίγουρος? => σημειώστε ότι αυτή η λειτουργία είναι μη αναστρέψιμη"
+
+#: elementor/taily-textarea.php:66
+msgid "Taily-CSS"
+msgstr "Taily-CSS"
+
+#: elementor/taily-textarea.php:74
+msgid "CSS-Classes"
+msgstr "CSS-Classes"
+
+#: elementor/taily-textarea.php:84
+msgid "Add your custom class WITHOUT the dot. e.g: w-full text-center ..."
+msgstr ""
+"Προσθέστε την προσαρμοσμένη τάξη σας ΧΩΡΙΣ την τελεία. π.χ.: w-full text-"
+"center bg-sky-200"
+
+#: elementor/taily-textarea.php:124
+msgid "Taily Page Settings"
+msgstr "Ρυθμίσεις σελίδας Taily"
+
+#: elementor/taily-textarea.php:137
+msgid "Active"
+msgstr "Ενεργός"
+
+#: elementor/taily-textarea.php:138
+msgid "InActive"
+msgstr "μακριά από"
+
+# read-me file
+#~ msgid ""
+#~ "Tailwind-Framework for Wordpress (Fast & Optimized),Unparalleled "
+#~ "Versatility, Advanced Elementor & Gutenberg integration and etc..."
+#~ msgstr ""
+#~ "Tailwind-Framework για Wordpress (Γρήγορο & Βελτιστοποιημένο), Απαράμιλλη "
+#~ "Ευελιξία, Προηγμένη Ενσωμάτωση Elementor & Gutenberg κ.λπ."
