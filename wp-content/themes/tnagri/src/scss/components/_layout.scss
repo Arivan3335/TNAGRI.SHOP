@@ -1,0 +1,23 @@
+.wp-block-woocommerce-product-categories {
+    @apply bg-white shadow-md;
+
+    ul {
+        @apply flex gap-2 p-0;
+
+        li {
+            @apply m-0 flex flex-col items-center text-center;
+
+            .wc-block-product-categories-list-item__image {
+                @apply m-0;
+            }
+        }
+    }
+}
+
+.wp-block-woocommerce-product-collection {
+    @apply bg-white shadow-md;
+
+    ul {
+        @apply m-0;
+    }
+}

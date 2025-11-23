@@ -1,0 +1,12 @@
+body {
+    &.home {
+        .entry {
+            background: transparent;
+            box-shadow: none;
+
+            .single-content {
+                @apply flex flex-col gap-6;
+            }
+        }
+    }
+}

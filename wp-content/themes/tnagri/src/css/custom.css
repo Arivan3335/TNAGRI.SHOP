@@ -1,10 +1,30 @@
 @reference "tailwindcss";
-.site-header .main-navigation .primary-menu-container a {
-  @apply pt-0 pb-0;
+.wp-block-woocommerce-product-categories {
+  @apply bg-white shadow-md;
+}
+.wp-block-woocommerce-product-categories ul {
+  @apply flex gap-2 p-0;
+}
+.wp-block-woocommerce-product-categories ul li {
+  @apply m-0 flex flex-col items-center text-center;
+}
+.wp-block-woocommerce-product-categories ul li .wc-block-product-categories-list-item__image {
+  @apply m-0;
 }
 
-.wrapper {
-  @apply m-auto px-4 max-w-[82rem];
+.wp-block-woocommerce-product-collection {
+  @apply bg-white shadow-md;
+}
+.wp-block-woocommerce-product-collection ul {
+  @apply m-0;
+}
+
+body.home .entry {
+  background: transparent;
+  box-shadow: none;
+}
+body.home .entry .single-content {
+  @apply flex flex-col gap-6;
 }
 
 /*# sourceMappingURL=custom.css.map */
