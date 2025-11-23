@@ -9,24 +9,40 @@
   display: flex;
   gap: calc(var(--spacing, 0.25rem) * 2);
   padding: calc(var(--spacing, 0.25rem) * 0);
+  padding: 0 !important;
 }
 .wp-block-woocommerce-product-categories ul li {
   margin: calc(var(--spacing, 0.25rem) * 0);
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding: calc(var(--spacing, 0.25rem) * 4);
   text-align: center;
+  margin: 0 !important;
+}
+.wp-block-woocommerce-product-categories ul li a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: calc(var(--spacing, 0.25rem) * 2);
 }
 .wp-block-woocommerce-product-categories ul li .wc-block-product-categories-list-item__image {
   margin: calc(var(--spacing, 0.25rem) * 0);
+  max-width: calc(var(--spacing, 0.25rem) * 25);
 }
 .wp-block-woocommerce-product-collection {
   background-color: var(--color-white, #fff);
+  padding: calc(var(--spacing, 0.25rem) * 4);
   --tw-shadow: 0 4px 6px -1px var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 2px 4px -2px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
   box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
 }
 .wp-block-woocommerce-product-collection ul {
   margin: calc(var(--spacing, 0.25rem) * 0);
+}
+.wc-block-product {
+  border-style: var(--tw-border-style);
+  border-width: 1px;
+  padding: calc(var(--spacing, 0.25rem) * 4);
 }
 body.home .entry {
   background: transparent;
@@ -102,6 +118,11 @@ body.home .entry .single-content {
   inherits: false;
   initial-value: 0 0 #0000;
 }
+@property --tw-border-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
+}
 @layer properties {
   @supports ((-webkit-hyphens: none) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color:rgb(from red r g b)))) {
     *, ::before, ::after, ::backdrop {
@@ -119,6 +140,7 @@ body.home .entry .single-content {
       --tw-ring-offset-width: 0px;
       --tw-ring-offset-color: #fff;
       --tw-ring-offset-shadow: 0 0 #0000;
+      --tw-border-style: solid;
     }
   }
 }
