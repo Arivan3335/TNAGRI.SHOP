@@ -1,5 +1,8 @@
 /*! tailwindcss v4.1.17 | MIT License | https://tailwindcss.com */
 @layer properties;
+.site-header {
+  padding-block: calc(var(--spacing, 0.25rem) * 2);
+}
 body .entry {
   margin-top: calc(var(--spacing, 0.25rem) * 4);
 }
@@ -47,7 +50,12 @@ body .entry {
 .wc-block-product {
   border-style: var(--tw-border-style);
   border-width: 1px;
+  border-color: var(--color-gray-300, oklch(87.2% 0.01 258.338));
   padding: calc(var(--spacing, 0.25rem) * 2);
+}
+.woocommerce ul.products li.product .entry-content-wrap {
+  margin: calc(var(--spacing, 0.25rem) * 0);
+  padding: calc(var(--spacing, 0.25rem) * 4);
 }
 body.home .entry {
   margin: calc(var(--spacing, 0.25rem) * 0);
