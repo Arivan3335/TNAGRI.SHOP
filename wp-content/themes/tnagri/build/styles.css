@@ -1,0 +1,12 @@
+/*! tailwindcss v4.1.17 | MIT License | https://tailwindcss.com */
+.site-header .main-navigation .primary-menu-container a {
+  padding-top: calc(var(--spacing, 0.25rem) * 0);
+  padding-bottom: calc(var(--spacing, 0.25rem) * 0);
+}
+.wrapper {
+  margin: auto;
+  max-width: 82rem;
+  padding-inline: calc(var(--spacing, 0.25rem) * 4);
+}
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,37 +1,14 @@
 <?php
-// Enqueue parent and child theme styles
-add_action('wp_enqueue_scripts', function() {
-    // Load parent theme styles
+/**
+ * tnagri child theme functions
+ */
+
+function tnagri_enqueue_styles() {
     wp_enqueue_style(
-        'twentytwentyfive-parent-style',
-        get_template_directory_uri() . '/style.css'
+        'tnagri-style',
+        get_stylesheet_directory_uri() . '/build/styles.css',
+        array(),
+        filemtime( get_stylesheet_directory() . '/build/styles.css' )
     );
-
-    // Load child theme styles
-    wp_enqueue_style(
-        'twentytwentyfive-child-style',
-        get_stylesheet_directory_uri() . '/style.css',
-        ['twentytwentyfive-parent-style']
-    );
-
-    wp_enqueue_script(
-        'tailwindcdn',
-        'https://cdn.tailwindcss.com',
-        [],
-        null,
-        false
-    );
-
-    // Custom Tailwind config
-    wp_add_inline_script('tailwindcdn', '
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        brand: "#6C63FF",
-                    }
-                }
-            }
-        }
-    ');
-});
+}
+add_action('wp_enqueue_scripts', 'tnagri_enqueue_styles');

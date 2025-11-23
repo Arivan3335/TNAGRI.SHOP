@@ -1,0 +1,10 @@
+@reference "tailwindcss";
+.site-header .main-navigation .primary-menu-container a {
+  @apply pt-0 pb-0;
+}
+
+.wrapper {
+  @apply m-auto px-4 max-w-[82rem];
+}
+
+/*# sourceMappingURL=custom.css.map */
