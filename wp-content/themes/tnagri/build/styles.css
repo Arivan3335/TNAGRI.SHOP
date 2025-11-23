@@ -1,5 +1,8 @@
 /*! tailwindcss v4.1.17 | MIT License | https://tailwindcss.com */
 @layer properties;
+body .entry {
+  margin-top: calc(var(--spacing, 0.25rem) * 4);
+}
 .wp-block-woocommerce-product-categories {
   background-color: var(--color-white, #fff);
   --tw-shadow: 0 4px 6px -1px var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 2px 4px -2px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
@@ -38,20 +41,27 @@
 }
 .wp-block-woocommerce-product-collection ul {
   margin: calc(var(--spacing, 0.25rem) * 0);
+  padding: calc(var(--spacing, 0.25rem) * 0);
+  padding: 0 !important;
 }
 .wc-block-product {
   border-style: var(--tw-border-style);
   border-width: 1px;
-  padding: calc(var(--spacing, 0.25rem) * 4);
+  padding: calc(var(--spacing, 0.25rem) * 2);
 }
 body.home .entry {
-  background: transparent;
-  box-shadow: none;
+  margin: calc(var(--spacing, 0.25rem) * 0);
+  background-color: transparent;
+  --tw-shadow: 0 0 #0000;
+  box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
 }
 body.home .entry .single-content {
   display: flex;
   flex-direction: column;
   gap: calc(var(--spacing, 0.25rem) * 6);
+}
+body.home .entry .single-content .wp-block-group {
+  margin: calc(var(--spacing, 0.25rem) * 0);
 }
 @property --tw-shadow {
   syntax: "*";

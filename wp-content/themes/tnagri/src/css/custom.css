@@ -1,4 +1,8 @@
 @reference "tailwindcss";
+body .entry {
+  @apply mt-4;
+}
+
 .wp-block-woocommerce-product-categories {
   @apply bg-white shadow-md;
 }
@@ -21,19 +25,22 @@
   @apply bg-white shadow-md p-4;
 }
 .wp-block-woocommerce-product-collection ul {
-  @apply m-0;
+  @apply m-0 p-0;
+  padding: 0 !important;
 }
 
 .wc-block-product {
-  @apply border p-4;
+  @apply border p-2;
 }
 
 body.home .entry {
-  background: transparent;
-  box-shadow: none;
+  @apply m-0 bg-transparent shadow-none;
 }
 body.home .entry .single-content {
   @apply flex flex-col gap-6;
+}
+body.home .entry .single-content .wp-block-group {
+  @apply m-0;
 }
 
 /*# sourceMappingURL=custom.css.map */
